@@ -1,0 +1,140 @@
+1) Original Bode Datei aufbereiten (manuell)
+
+Die Preisliste ('Bode Naturkost Preisliste 2022_PV.xlsx') besteht aus mehreren Excelsheets.
+Produkte mit Preisen gab es aber nur in den Sheets 'Neuheit', 'Preisliste' und 'Exklusiv'.
+Manche Produkte sind allerdings auch doppelt aufgeführt. Es gab keine Getränke.
+
+Zu jedem Produkt gibt es die Spalten 'Artikel' (Bestellnummer), 'Bezeichnung', 'Anbau'
+(sowas wie kbA=kontrolliert biologischer Anbau), 'Ursprung' (Länderkürzel), 'Gebinde'
+und eine Preisspalte die entweder 'Preis/Einh.', 'Preis/KG', 'Preis/Beutel' o.ä. heißt.
+Dazu gibt es zu jeder Tabelle (tlw. mehrere pro Sheet) eine Überschrift wie z.B.
+'Trockenfrüchte - Kleingebinde'.
+
+Als erstes habe ich deshalb jeweils eine neue Spalte 'Kategorie' hinzugefügt in der ich
+mit Hilfe der Überschrift der Tabelle die Kategorie der Produkte eingetragen habe
+(für jede Zeile/jedes einzelne Produkt). Dabei ist aber zu beachten, dass Foodsoft nicht
+beliebige Kategorien zulässt. Deshalb muss man dort schauen was es gibt, allerdings wurden
+die Foodsoft Kategorien bereits für Bode angepasst und es gibt sogar die Kategorie 'Bode Mischungen',
+d.h. in den meisten Fällen konnte ich die Überschriften der Tabellen mehr oder weniger übernehmen.
+In wenigen Fällen, wenn z.B. auf eine 'gartenkompostierbare Verpackung' hingewiesen wurde,
+habe ich diese Information in eine weitere neue Spalte 'Notiz' kopiert.
+Blöd sind auch die Produkte unter 'Bode Exklusiv' oder 'Demeter', da sie nicht weiter kategorisiert
+sind. Für diese habe ich einfach pauschal die Kategorie 'Bode Bio Box' ausgewählt.
+
+Dann hab ich die ganzen Überschriften gelöscht und alle Tabellen untereinander in das
+gleiche Sheet kopiert. Dass die Preisspalte manchmal pro KG oder pro Beutel etc. zu
+interpretieren ist habe ich erstmal ignoriert (s.u.).
+
+Für Foodsoft benötigen wir folgende Spaltennamen (s. Lieferanten-Upload in der Foodsoft)
+
+'Status', 'Bestellnummer', 'Name', 'Notiz', 'Produzent', 'Herkunft', 'Einheit',
+'Nettopreis', 'MwSt', 'Pfand', 'Gebindegröße', (leer), (leer), 'Kategorie'
+
+Deshalb habe ich als nächstes einfach nur einige Spalten umbenannt:
+
+* Artikel -> Bestellnummer
+* Bezeichnung -> Name
+* Anbau -> Produzent
+* Ursprung -> Herkunft
+* Preis/KG,Beutel... -> Nettopreis
+* Gebinde -> Gebindegröße
+
+und ein folgende leere Spalten eingefügt:
+Status, Einheit, MwSt, Pfand, Leer1, Leer2
+
+Die Mehrwertsteuer habe ich einfach überall auf 7 (Prozent) gesetzt und Pfand auf 0.
+Da es keine Getränke gibt müsste das stimmen (?). Mehr zu den Preisen weiter unten.
+
+Dann habe ich das Excelsheet als csv gespeichert (UTF-8 und ; als Spaltentrenner so
+wie Foodsoft das auch später benötigt) und bode_raw.csv genannt.
+
+2) Duplikate entfernen (mit enjoy-csv)
+
+Mit dem remove_duplicates mode habe ich eine neue csv (bode_raw_no_duplicates.csv)
+erstellt. Der Output ist das gleiche wie der Input, aber Duplikate sind entfernt.
+Ich habe dann das diff der beiden Dateien angeschaut was hier ganz gut geht da
+wir ja ansonsten nichts ändern. Duplikate gab es z.B. zwischen den Kategorien
+'Müsli&Co' und 'Bodemischungen' oder sehr häufig bei den Kategorien aus dem
+'Bode Exklusiv' Sheet. Also das nur mal zur Kontrolle, ansonsten können wir die
+Datei wieder löschen, da Duplikate im nächsten Schritt ebenfalls entfernt werden.
+Falls es viele Duplikate mit Datenfehlern (s.u.) sind lohnt es sich aber evtl. auch
+mit der Datei ohne Duplikate weiterzumachen.
+
+3) Gebinde stückeln und bepreisen (mit enjoy-csv)
+
+Alles was hier beschrieben wird, abgesehen von den manuellen Korrekturen, macht der bode2 mode.
+
+Die Spalte 'Gebindegröße' in der Bodetabelle gibt Auskunft über die Menge des
+gelieferten Produkts. Sehr typisch sind Angaben in kg wie '10kg' oder Mengenangaben
+bei Kleingebinden, z.B. '6/150g', also sechs Einheiten mit je 150g.
+
+Für Foodsoft ist die 'Gebindegröße' allerdings die Anzahl der Einheiten und die
+'Einheit' die Größe einer Einheit. D.h. wenn z.B. die Gebindegröße bei Bode 10kg
+beträgt müssen wir das aufteilen in z.B. 20x500g, d.h. Einheit=500g, Gebindegröße=20.
+
+Zur späteren Kontrolle und besserem Verständnis habe ich daher die original Gebindegröße
+und den original gegebenen Preis (auf was auch immer er sich bezieht, s.u.) in die Spalte
+'Notiz' an den Artikelnamen angehängt. Die Gebindegröße habe ich noch zusätzlich in den
+Artikelnamen übernommen, um doppelte Artikelnamen zu vermeiden (z.B. wenn es mehrere
+Gebindegrößen für den gleichen Artikel gibt). Der resultierende Name darf allerdings nicht
+mehr als 60 Zeichen haben. enjoy-csv wird hierfür eine Warnung ausgeben, aber später beim
+Upload in der Foodsoft geht es sonst auf jeden Fall schief. D.h. zu lange Namen müssen wir
+kürzen und im Notfall bin ich auf die 'Notiz' Spalte ausgewichen.
+
+Jedenfalls müssen wir automatisiert die Bode Gebindegröße parsen und in unsere Einheiten
+übersetzen. Die Preise beziehen sich teilweise auf das Kilogramm und teilweise auf Beutel,
+Gläser etc., aber das ist nicht konsistent also sogar in Tabellen in denen die Preisspalte
+'Preis/KG' lautete gab es Fälle in denen der Preis sich dann doch auf einen Kanister bezogen
+hat etc.
+
+Deshalb habe ich folgende Regeln verwendet (für details s. lib/split_bulk.js)
+
+* Wenn die Gebindegröße in kg (nicht Gramm) angegeben ist gehe ich von einem pro-kg Preis aus
+  und das Gebinde wird je nach Gewicht gestückelt, also z.B. 25kg -> 25x1kg, 2kg -> 20*100g
+  Hier gibt es aber auch Beispiele in denen mehrere Gebindegrößen angegeben werden wie z.B.
+  10kg/20kg oder 10kg,20kg oder 10/20kg.
+* So ähnlich für L (Liter, nicht ml)
+* Alles in der Form 5x100g/ml/stk wird als Kleingebinde interpretiert, der Preis bezieht sich
+  dann auf eine Einheit. Das geht nur für g/ml/stk, nicht z.B. kg oder L um es nicht mit obigen
+  Fällen zu verwechseln, z.B. 10/20kg bedeutet eben **nicht** 10x20kg, sondern dass es alternativ
+  10kg oder 20kg (Groß)gebinde gibt.
+
+Damit blieben nur noch wenige Spezialfälle übrig die ich per Hand in bode_raw.csv korrigiert habe, z.B.:
+
+* Ahornsirup: Preis bezog sich auf 4L Kanister statt auf L, obwohl die Menge in L angegeben war
+* Pflaumen: 5kg(10x500g) -> Kleingebinde 10x500g, dafür den gegebenen (kg) Preis halbiert
+* Apfelwürfel: 10/20kg -> 10kg/20kg (10/20kg ist nicht erlaubt wegen Verwechslungsgefahr mit Kleingebinde)
+* Callets: 2x10kg -> 10kg (lt. website)
+* Veggie-hearts: 2x2,5kg -> 5kg
+* Kokosöl: 6/1L -> 6/1000ml (Kleingebinde müssen in ml nicht L angegeben werden)
+* Meersalz: 6x1kg -> 6x1000g (Kleingebinde in g nicht kg)
+* Nonpareilles: 1Kg -> 1kg (ist so selten dass ich nur kg nicht Kg erlaube)
+* Backhefe: 500g -> 0.5kg (Großgebinde in kg)
+* Vanillestangen: 100g -> 0.1kg und Preis verzehnfacht (bezog sich auf 100g nicht 1kg)
+* Lakritzstangen: 100Stk. -> 1Kt.
+
+Falls noch etwas nicht erkannt wir wird es beim ausführen von enjoy-csv als Warnung angezeigt.
+
+Jetzt noch zum Preis: Die Preise sind bei Bode wie gesagt entweder in kg, L oder sonstigen Einheiten
+wie Beutel, Gläser etc. angegeben. Das leiten wir wie oben beschrieben aus dem Format der Gebindegröße
+ab. Es gibt noch einen 3% discount für Onlinebestellungen und die Preise sind Netto (ohne Mwst.)
+angegeben.
+
+Wenn alle nötigen manuellen Änderungen an bode_raw.csv gemacht wurden schließlich mit enjoy-csv und
+dem bode2 mode das Ergebnis erstellen (bode_final.csv).
+
+4) Foodsoft Upload
+
+Jetzt einfach nur noch bode_final.csv in der Foodsoft hochladen. Die Kategorien sollten automatisch erkannt
+werden **wenn sie denen in der Foodsoft entsprechen**.
+
+
+
+
+
+
+
+
+
+
+
