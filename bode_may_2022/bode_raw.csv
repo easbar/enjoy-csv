@@ -1,0 +1,1199 @@
+Status;Bestellnummer;Name;Notiz;Produzent;Herkunft;Einheit;Nettopreis;MwSt;Pfand;Gebindegröße;Leer1;Leer2;Kategorie
+;21635;Aprikosenkerne bitter                          ;;kbA;UZ;;8.10 €;7;;10kg;;;Nusskerne
+;21636;Aprikosenkerne süß                           ;;kbA;UZ;;10.22 €;7;;25kg;;;Nusskerne
+;48041;Aprikosenkerne süß                           ;;kbA;UZ;;10.99 €;7;;5kg;;;Nusskerne
+;40077;Bittermandeln;;kbA;ES/IT;;17.99 €;7;;5kg;;;Nusskerne
+;22505;Bittermandeln;;kbA;ES/IT;;17.22 €;7;;25kg;;;Nusskerne
+;22732;Cashewkerne geröstet gesalzen mit Chili;;kbA;VN;;15.72 €;7;;22,68kg ;;;Nusskerne
+;22687;Cashewkerne geröstet gesalzen;;kbA;VN;;14.72 €;7;;22,68kg ;;;Nusskerne
+;22463;Cashewkerne 240er Premium                      ;;kbA;VN;;13.39 €;7;;22,68kg ;;;Nusskerne
+;22472;Cashewkerne 320er                         ;;kbA;VN;;12.87 €;7;;22,68kg ;;;Nusskerne
+;22446;Cashewkerne 400-450er;;kbA;VN;;12.44 €;7;;22,68kg ;;;Nusskerne
+;42643;Cashewkerne (320W/400-450W);;kbA;VN;;13.19 €;7;;5kg;;;Nusskerne
+;22458;Cashew-Bruch Baby Bits;;kbA;VN/BF;;9.95 €;7;;22,68kg ;;;Nusskerne
+;22459;Cashew-Bruch SP/SSP;;kbA;VN;;10.27 €;7;;22,68kg ;;;Nusskerne
+;22451;Cashew-Bruch groß;;kbA;VN;;11.06 €;7;;22,68kg ;;;Nusskerne
+;40343;Cashewbruch groß LWP;;kbA;VN;;11.79 €;7;;5kg;;;Nusskerne
+;22401;Cashewkerngrieß;;kbA;BR;;9.48 €;7;;22,68kg ;;;Nusskerne
+;22475;Cashewkerne Hälften;;kbA;BF;;12.12 €;7;;22,68kg ;;;Nusskerne
+;23497;Erdmandeln ganz braun 6-10mm;;kbA;NE;;8.37 €;7;;25kg;;;Nusskerne
+;42904;Erdmandeln ganz braun 6-10mm;;kbA;NE;;9.09 €;7;;5kg;;;Nusskerne
+;23499;Erdmandeln geschält ;;kbA;NE;;10.12 €;7;;25kg;;;Nusskerne
+;48011;"Erdmandeln geschält ""zum Knabbern""";;kbA;NE;;10.89 €;7;;5kg;;;Nusskerne
+;22462;Erdnusskerne blanchiert roh;;kbA;CN;;5.34 €;7;;25kg;;;Nusskerne
+;42903;Erdnusskerne blanchiert roh;;kbA;CN;;6.09 €;7;;5kg;;;Nusskerne
+;22409;Erdnusskerne mit roter Haut;;kbA;CN;;6.20 €;7;;25kg;;;Nusskerne
+;22675;Erdnusskerne geröstet gesalzen;;kbA;CN;;6.30 €;7;;10kg;;;Nusskerne
+;42640;Haselnusskerne                               ;;kbA;TR/IT/AZ;;11.49 €;7;;5kg;;;Nusskerne
+;22419;Haselnusskerne 13-15mm                         ;;kbA;TR/IT/AZ;;11.22 €;7;;25kg;;;Nusskerne
+;22438;Haselnusskerne gehackt geröstet;;kbA;TR/IT/AZ;;10.75 €;7;;25kg;;;Nusskerne
+;22435;Haselnusskerne gemahlen geröstet;;kbA;TR/IT/AZ;;10.75 €;7;;25kg;;;Nusskerne
+;22412;Haselnusskerne Demeter;;kbdA*;TR/IT/AZ;;13.52 €;7;;25kg;;;Nusskerne
+;22413;Haselnusskerne 11-13mm                      ;;kbA;TR/IT/AZ;;10.79 €;7;;25kg;;;Nusskerne
+;22499;Haselnusskerne blanchiert;;kbA;TR;;15.00 €;7;;25kg;;;Nusskerne
+;22486;Macadamia-Nusskerne geröstet gesalzen;;kbA;KE;;23.99 €;7;;10kg;;;Nusskerne
+;22318;Macadamia Nusskerne fein gehackt geröstet;;kbA;KE;;25.33 €;7;;10kg;;;Nusskerne
+;22439;Macadamia-Nusskerne roh Premium *(Style1) ;;kbA;KE;;27.45 €;7;;11,34kg;;;Nusskerne
+;42644;Macadamia-Nusskerne Premium;;kbA;KE;;28.19 €;7;;5kg;;;Nusskerne
+;23484;Macadamia-Nusskerne roh *(Style2);;kbA;KE;;25.33 €;7;;11,34kg;;;Nusskerne
+;22441;Macadamia-Nusskerne/Stücke roh, industrial ;;kbA;KE;;22.15 €;7;;10kg;;;Nusskerne
+;22414;Mandeln braun                          ;;kbA;ES/IT;;15.04 €;7;;25kg;;;Nusskerne
+;42641;Mandeln braun                      ;;kbA;ES/IT;;15.79 €;7;;5kg;;;Nusskerne
+;22685;Mandeln braun klein;;kbA;ES/IT;;14.41 €;7;;25kg;;;Nusskerne
+;22448;Mandeln braun Jumbo süß Premium;;kbA;ES/IT;;15.57 €;7;;25kg;;;Nusskerne
+;22407;Mandeln blanchiert;;kbA;ES/IT;;15.68 €;7;;25kg;;;Nusskerne
+;42642;Mandeln blanchiert ;;kbA;ES/IT;;16.39 €;7;;5kg;;;Nusskerne
+;22433;Mandeln gehackt;;kbA;ES/IT;;16.20 €;7;;10kg;;;Nusskerne
+;22420;Mandeln gemahlen                  ;;kbA;ES/IT;;15.35 €;7;;10kg;;;Nusskerne
+;22408;Mandeln gestiftelt;;kbA;ES/IT;;16.20 €;7;;10kg;;;Nusskerne
+;22423;Mandeln gehobelt;;kbA;ES/IT;;16.20 €;7;;10kg;;;Nusskerne
+;21903;Mandeln geröstet gesalzen ;;kbA;ES;;20.03 €;7;;10kg;;;Nusskerne
+;21800;Mandeln geröstet;;kbA;ES;;20.03 €;7;;25kg;;;Nusskerne
+;22498;Paranusskerne;;kbA;BO/PE;;18.67 €;7;;20kg;;;Nusskerne
+;42639;Paranusskerne;;kbA;BO/PE;;19.39 €;7;;5kg;;;Nusskerne
+;23338;Pekannusskerne Hälften;;kbA;MX/ZA;;20.24 €;7;;13,61kg;;;Nusskerne
+;22476;Pekannusskerne Bruch;;kbA;MX/ZA;;16.74 €;7;;10kg;;;Nusskerne
+;21750;Paranusskerne Großbruch / Hälften;;kbA;BO;;17.61 €;7;;19,96kg;;;Nusskerne
+;22417;Pinienkerne;;kbA;RU/CN;;38.14 €;7;;10kg,25kg;;;Nusskerne
+;48087;Pinienkerne;;kbA;RU/CN;;38.89 €;7;;5kg;;;Nusskerne
+;22434;Pistazien geröstet gesalzen in Schale;;kbA;TR/IT/ES;;18.00 €;7;;10kg;;;Nusskerne
+;22684;Pistazienkerne grün mit Haut;;kbA;TR/IT/ES;;33.68 €;7;;10kg/25kg;;;Nusskerne
+;22455;Pistazienkerne grün;;kbA;TR/IT/ES;;59.36 €;7;;10kg;;;Nusskerne
+;22436;Walnusskerne halbe helle Europa;;kbA;MD;;12.33 €;7;;10kg;;;Nusskerne
+;22496;Walnussbruch light Europa;;kbA;MD/UA;;10.21 €;7;;10kg;;;Nusskerne
+;22437;Walnussbruch light Indien nur für Verarbeiter;;kbA;IN;;8.90 €;7;;10kg;;;Nusskerne
+;22479;Walnussbruch light amber Europa ;;kbA;MD/UA;;9.15 €;7;;10kg;;;Nusskerne
+;22443;Walnussbruch light amber Indien ;;kbA;IN;;8.95 €;7;;10kg;;;Nusskerne
+;40882;Cashewkerne 240er Premium                     ;;kbA;CI/VN;;2.69 €;7;;6/150g;;;Nusskerne
+;42403;Cashewkerne                              ;;kbA;CI/VN;;3.09 €;7;;6/200g;;;Nusskerne
+;42683;Cashewkerne                              ;;kbA;CI/VN;;7.49 €;7;;6/500g;;;Nusskerne
+;42732;Cashewkerne geröstet gesalzen mit Chili  ;;kbA;VN;;3.01 €;7;;6/150g;;;Nusskerne
+;40078;Cashewkerne geröstet gesalzen;;kbA;VN;;2.84 €;7;;6/150g;;;Nusskerne
+;42402;Cashew-Stücke;;kbA;CI/VN;;2.89 €;7;;6/200g;;;Nusskerne
+;42712;Erdnusskerne blanchiert roh;;kbA;VN;;1.69 €;7;;6/200g;;;Nusskerne
+;42905;"Erdmandeln braun geschält ""zum Knabbern""";;kbA;GQ;;2.19 €;7;;6/150g;;;Nusskerne
+;42412;Haselnusskerne                      ;;kbA;TR/IT/AZ;;2.74 €;7;;6/200g;;;Nusskerne
+;42438;Haselnusskerne                             ;;kbA;TR/IT/AZ;;6.49 €;7;;6/500g;;;Nusskerne
+;42456;Haselnusskerne gehackt geröstet ;;kbA;TR/IT/AZ;;1.69 €;7;;6/100g;;;Nusskerne
+;42458;Haselnusskerne gemahlen geröstet;;kbA;TR/IT/AZ;;1.69 €;7;;6/100g;;;Nusskerne
+;48085;Macadamia-Nusskerne geröstet gesalzen;;kbA;KE;;3.09 €;7;;6/100g;;;Nusskerne
+;42420;Mandeln braun;;kbA;ES/IT;;3.69 €;7;;6/200g;;;Nusskerne
+;42440;Mandeln braun;;kbA;ES/IT;;8.59 €;7;;6/500g;;;Nusskerne
+;40883;Mandeln braun Jumbo süß Premium;;kbA;VN;;2.99 €;7;;6/150g;;;Nusskerne
+;42498;Mandeln blanchiert;;kbA;ES/IT;;3.79 €;7;;6/200g;;;Nusskerne
+;42457;Mandeln gehackt;;kbA;ES/IT;;2.29 €;7;;6/100g;;;Nusskerne
+;42461;Mandeln gemahlen                 ;;kbA;ES/IT;;2.19 €;7;;6/100g;;;Nusskerne
+;42455;Mandeln gehobelt;;kbA;ES/IT;;2.29 €;7;;6/100g;;;Nusskerne
+;40079;Mandeln gerästet gesalzen;;kbA;ES;;3.69 €;7;;6/150g;;;Nusskerne
+;70078;Mandeln gerästet gesalzen;;kbA;ES;;4.79 €;7;;1/150g;;;Nusskerne
+;42450;Paranusskerne;;kbA;BO/PE;;4.34 €;7;;6/200g;;;Nusskerne
+;42451;Paranusskerne;;kbA;BO/PE;;10.34 €;7;;6/500g;;;Nusskerne
+;48036;Pekannusskerne;;kbA;ZA;;2.64 €;7;;6/100g;;;Nusskerne
+;42459;Pinienkerne;;kbA;RU/CN;;4.49 €;7;;6/100g;;;Nusskerne
+;42411;Pinienkerne;;kbA;RU/CN;;39.19 €;7;;1kg;;;Nusskerne
+;42689;Pistazienkerne grün Premium;;kbA;TR/IT/ES;;6.59 €;7;;6/100g;;;Nusskerne
+;42460;Pistazienkerne grün;;kbA;TR/IT/ES;;61.19 €;7;;1kg;;;Nusskerne
+;42710;Pistazienkerne grün mit Haut;;kbA;TR/IT/ES;;3.99 €;7;;6/100g;;;Nusskerne
+;42720;Pistazienkerne grün mit Haut;;kbA;TR/IT/ES;;35.49 €;7;;1kg;;;Nusskerne
+;42686;Pistazien geröstet gesalzen in Schale;;kbA;TR/IT/ES;;5.19 €;7;;6/250g;;;Nusskerne
+;42445;Walnusskerne hell ;;kbA;MD/UA;;2.19 €;7;;6/125g;;;Nusskerne
+;42448;Walnusskerne hell ;;kbA;MD;;3.69 €;7;;6/250g;;;Nusskerne
+;42462;Walnussstücke hell;;kbA;MD/UA;;3.19 €;7;;6/250g;;;Nusskerne
+;20655;Ananasringe Rohkost;;kbA;LK;;21.04 €;7;;10kg;;;Trockenfrüchte
+;22502;Ananasringe Premium;;kbA;LK;;21.04 €;7;;10kg;;;Trockenfrüchte
+;22615;Ananas tidbits;;kbA;BF/LK;;15.14 €;7;;10kg;;;Trockenfrüchte
+;22641;Apfelringe;;kbA;CN/BG;;14.08 €;7;;10kg;;;Trockenfrüchte
+;40565;Apfelringe;;kbA;CN;;14.79 €;7;;5kg;;;Trockenfrüchte
+;21741;Apfelwürfel SOFT ohne Schale;;kbA;CL/HU;;13.62 €;7;;18kg;;;Trockenfrüchte
+;22509;Aprikosen;;kbA;TR;;8.25 €;7;;12,5kg;;;Trockenfrüchte
+;22510;Aprikosen Demeter, Nr. 3-4 ;;kbdA*;TR/UZ;;9.16 €;7;;12,5kg;;;Trockenfrüchte
+;23323;Aronia Beeren;;kbA;PL;;9.27 €;7;;25kg;;;Trockenfrüchte
+;22659;Bananenstücke getrocknet (Chunks);;kbA;LK;;7.36 €;7;;5kg;;;Trockenfrüchte
+;22299;Bananen Scheiben / Coins getrocknet;;kbA;LK;;7.19 €;7;;10kg;;;Trockenfrüchte
+;23426;Blaubeeren wild gesüßt mit Apfeldicksaft;;kbA;GR/SRB;;38.69 €;7;;7kg/10kg;;;Trockenfrüchte
+;22528;Datteln entsteint Deglet Nour;;kbA;TN/DZ;;4.91 €;7;;5kg/9kg;;;Trockenfrüchte
+;22599;Datteln entsteint Industriequalität;;kbA;PK;;2.85 €;7;;10kg;;;Trockenfrüchte
+;22501;Datteln Medjool ;;kbA;IL/PS;;11.43 €;7;;5kg;;;Trockenfrüchte
+;27055;Kokos-Datteln - NEU mit Kokosöl! ;;kbA;DE;;7.09 €;7;;5kg;;;Trockenfrüchte
+;22563;Feigen geklippt ganze Frucht Nr.8/9;;kbA;TR;;6.24 €;7;;12,5kg;;;Trockenfrüchte
+;22561;Feigen Lerida Nr. 4;;kbA;TR;;7.93 €;7;;10kg/12kg;;;Trockenfrüchte
+;22585;Feigen Protoben Nr. 4/5;;kbA;TR;;8.15 €;7;;12,5kg;;;Trockenfrüchte
+;22562;Feigen Protoben Nr. 6 Demeter ;;kbdA*;TR;;11.28 €;7;;12,5kg;;;Trockenfrüchte
+;22643;Minifeigen Iran aus dem Zagrosgebirge ;;kbA;IR;;13.65 €;7;;5kg;;;Trockenfrüchte
+;22667;"Feigen ""spanische Goldfeige"" Premium";;kbA;ES;;7.62 €;7;;10kg;;;Trockenfrüchte
+;21738;Gojibeeren getrocknet (klein) China;;kbA;CN;;15.79 €;7;;20kg;;;Trockenfrüchte
+;22654;Gojibeeren getrocknet China ;;kbA;CN;;16.96 €;7;;20kg;;;Trockenfrüchte
+;21106;Ingwerwürfel kristallisiert;;kbA;CN;;6.56 €;7;;20kg;;;Trockenfrüchte
+;21227;Ingwerstäbchen kristallisiert;;kbA;CN;;8.46 €;7;;20kg;;;Trockenfrüchte
+;22556;Korinthen;;kbA;GR;;5.28 €;7;;12,5kg;;;Trockenfrüchte
+;22549;Mangoscheiben;;kbA;BF;;11.97 €;7;;20kg;;;Trockenfrüchte
+;22550;Mangostreifen;;kbA;BF;;11.97 €;7;;20kg;;;Trockenfrüchte
+;22672;Maulbeeren hell;;kbA;IR/TR;;7.73 €;7;;6kg/10kg;;;Trockenfrüchte
+;23430;Maulbeeren schwarz;;kbA;CN/TR/IR;;10.22 €;7;;10kg;;;Trockenfrüchte
+;22555;Pflaumen entsteint 40/50/60er;;kbA;US/BG;;8.04 €;7;;10kg/11kg;;;Trockenfrüchte
+;22536;Pflaumen entsteint 30/40 Premium;;kbA;FR;;6.61 €;7;;10x500g;;;Trockenfrüchte
+;23334;Pflaumen entsteint 30/40 ;;kbA;FR;;11.60 €;7;;12,5kg;;;Trockenfrüchte
+;22673;Physalis ganz getrocknet;;kbA;PE;;16.85 €;7;;20kg;;;Trockenfrüchte
+;40126;Physalis ganz getrocknet;;kbA;PE/EC;;17.59 €;7;;5kg;;;Trockenfrüchte
+;22656;Rosinen grün Premium Rohkost;;kbA;PK;;10.58 €;7;;10kg;;;Trockenfrüchte
+;22572;Sauerkirschen getrocknet entsteint;;kbA;MD/UZ/TR;;16.19 €;7;;8kg;;;Trockenfrüchte
+;22539;Sultaninen;;kbA;UZ/TR;;3.69 €;7;;12,5kg;;;Trockenfrüchte
+;22540;Sultaninen Demeter Türkei ;;kbdA*;TR;;5.24 €;7;;12,5kg;;;Trockenfrüchte
+;21050;Tomatenhälften getrocknet;;kbA;TR;;7.04 €;7;;10kg;;;Trockenfrüchte
+;23219;Tomatenstreifen getrocknet;;kbA;TR;;8.95 €;7;;10kg;;;Trockenfrüchte
+;22542;Weinbeeren;;kbA;ZU/ZA;;3.91 €;7;;12,5kg;;;Trockenfrüchte
+;23297;Cranberries gesüßt mit Rohrzucker;;kbA;CA;;9.01 €;7;;11,34kg;;;Trockenfrüchte
+;23298;Cranberries gesüßt mit Apfeldicksaft ;;kbA;CA;;13.14 €;7;;11,34kg;;;Trockenfrüchte
+;42590;Ananasringe;;kbA;LK;;6.59 €;7;;6/250g;;;Trockenfrüchte
+;42535;Apfelringe;;kbA;BG/HU;;3.09 €;7;;6/125g;;;Trockenfrüchte
+;42544;Aprikosen;;kbA;TR/UZ;;2.29 €;7;;6/200g;;;Trockenfrüchte
+;42545;Aprikosen;;kbA;TR/UZ;;5.19 €;7;;6/500g;;;Trockenfrüchte
+;45636;Aronia Beeren;;kbA;PL;;1.59 €;7;;6/100g;;;Trockenfrüchte
+;40892;Aronia Beeren ;;kbA;PL;;11.09 €;7;;1kg;;;Trockenfrüchte
+;42906;Berberitzen Rohkost ;;kbA;IR;;3.29 €;7;;6/150g;;;Trockenfrüchte
+;42620;Cranberries gesüßt mit Apfeldicksaft ;;kbA;CA;;2.64 €;7;;6/125g;;;Trockenfrüchte
+;42510;Datteln entsteint Deglet Nour;;kbA;TN;;1.89 €;7;;6/250g;;;Trockenfrüchte
+;42513;Datteln entsteint Deglet Nour;;kbA;TN;;3.49 €;7;;6/500g;;;Trockenfrüchte
+;42505;Datteln Medjool ;;kbA;IL/PS;;3.49 €;7;;6/250g;;;Trockenfrüchte
+;42506;Datteln Medjool ;;kbA;IL/PS;;6.79 €;7;;6/500g;;;Trockenfrüchte
+;48078;Kokos-Datteln  - NEU mit Kokosöl! ;;kbA;DE;;2.09 €;7;;6/200g;;;Trockenfrüchte
+;42560;Feigen;;kbA;TR;;2.69 €;7;;6/250g;;;Trockenfrüchte
+;42561;Feigen;;kbA;TR;;5.09 €;7;;6/500g;;;Trockenfrüchte
+;42629;Minifeigen Iran;;kbA;IR;;4.09 €;7;;6/250g;;;Trockenfrüchte
+;42698;"Feigen ""spanische Goldfeige"" Premium";;kbA;ES;;2.59 €;7;;6/250g;;;Trockenfrüchte
+;42702;Physalis ganz getrocknet;;kbA;PE;;2.79 €;7;;6/125g;;;Trockenfrüchte
+;42562;Mangoscheiben;;kbA;BF;;2.19 €;7;;6/125g;;;Trockenfrüchte
+;45825;Mangostreifen;;kbA;BF;;3.79 €;7;;6/200g;;;Trockenfrüchte
+;42531;Pflaumen entsteint 33/44;;kbA;FR;;3.54 €;7;;6/250g;;;Trockenfrüchte
+;42554;Pflaumen entsteint 33/44;;kbA;FR;;7.99 €;7;;6/500g;;;Trockenfrüchte
+;42524;Rosinen grün Rohkost Premium ;;kbA;PK;;2.79 €;7;;6/200g;;;Trockenfrüchte
+;42523;Rosinen grün Rohkost Premium;;kbA;PK;;6.39 €;7;;6/500g;;;Trockenfrüchte
+;42596;Sauerkirschen getrocknet entsteint ;;kbA;MD/UZ/TR;;2.64 €;7;;6/125g;;;Trockenfrüchte
+;42540;Sultanas;;kbA;UZ/TR;;1.59 €;7;;6/250g;;;Trockenfrüchte
+;42502;Sultanas ;;kbA;UZ/TR;;2.89 €;7;;6/500g;;;Trockenfrüchte
+;42504;Sultanas ;;kbA;UZ/TR;;4.69 €;7;;6/1000g;;;Trockenfrüchte
+;42519;Tomatenhälften getrocknet;;kbA;TR;;1.49 €;7;;6/125g;;;Trockenfrüchte
+;42507;Tomatenhälften getrocknet;;kbA;TR;;8.89 €;7;;1kg;;;Trockenfrüchte
+;42557;Weinbeeren;;kbA;AR/ZA;;1.59 €;7;;6/250g;;;Trockenfrüchte
+;42558;Weinbeeren;;kbA;AR/ZA;;2.99 €;7;;6/500g;;;Trockenfrüchte
+;22601;Ananaswürfel;;kbA;LK;;15.79 €;7;;10kg;;;Trockenfrüchte
+;22623;Apfelwürfel 5-10mm ohne Schale;;kbA;AR;;13.72 €;7;;20kg;;;Trockenfrüchte
+;22644;Apfelwürfel mit Schale knusprig;;kbA;AR;;12.34 €;7;;10kg/20kg;;;Trockenfrüchte
+;22620;Aprikosenwürfel 8x8mm;;kbA;TR/UZ;;5.81 €;7;;11kg;;;Trockenfrüchte
+;23583;Dattelwürfel;;kbA;PK;;4.22 €;7;;5kg/10kg;;;Trockenfrüchte
+;22662;Dattelwürfel ohne Reismehl;;kbA;TN;;4.33 €;7;;4kg;;;Trockenfrüchte
+;22621;Feigenwürfel ;;kbA;TR;;5.28 €;7;;10kg;;;Trockenfrüchte
+;22624;Früchtewürfelmischung;;kbA;DE;;9.52 €;7;;10kg;;;Trockenfrüchte
+;21106;Ingwerwürfel kristallisiert ;;kbA;CN;;6.56 €;7;;20kg;;;Trockenfrüchte
+;22613;Mangowürfel;;kbA;BF;;10.49 €;7;;10kg;;;Trockenfrüchte
+;22639;Papayawürfel;;kbA;LK;;18.49 €;7;;12,5kg;;;Trockenfrüchte
+;22630;Pflaumenwürfel 5-7mm;;kbA;UZ;;6.73 €;7;;10kg;;;Trockenfrüchte
+;22582;Apfelchips ;;kbA;HU;;17.49 €;7;;10kg;;;Trockenfrüchte
+;22305;Bananenchips gesüßt;;kbA;PH;;5.07 €;7;;6,35kg;;;Trockenfrüchte
+;22311;Bananenchips Bruch/Quarters gesüßt;;kbA;PH;;4.44 €;7;;8,16kg;;;Trockenfrüchte
+;22306;Bananenchips ungesüßt;;kbA;PH;;5.60 €;7;;6,35kg;;;Trockenfrüchte
+;22315;Kokoschips roh ungesüßt ;;kbA;LK;;5.22 €;7;;10kg;;;Trockenfrüchte
+;22307;Kokoschips geröstet ungesüßt;;kbA;LK;;6.24 €;7;;10kg;;;Trockenfrüchte
+;40338;Kokosraspel medium;;kbA;LK;;6.49 €;7;;5kg;;;Trockenfrüchte
+;20323;Kokosraspel medium;;kbA;LK/VN;;5.71 €;7;;25kg;;;Trockenfrüchte
+;20652;Kokosraspel medium Rohkost ;;kbA;LK;;6.13 €;7;;25kg;;;Trockenfrüchte
+;20366;Kokosraspel fein;;kbA;LK/VN;;5.60 €;7;;25kg;;;Trockenfrüchte
+;22180;Kokosnuss Streifen (smile) Rohkost;;kbA;LK;;8.15 €;7;;10kg;;;Trockenfrüchte
+;22298;Bananenchips gesalzen;;kbA;PH;;5.28 €;7;;5kg;;;Trockenfrüchte
+;42317;Apfelchips rotschalig;;kbA;HU;;1.49 €;7;;6/50g;;;Trockenfrüchte
+;42321;Apfelchips rotschalig;;kbA;HU;;6.59 €;7;;6/300g;;;Trockenfrüchte
+;42307;Bananenchips gesüßt;;kbA;PH;;1.89 €;7;;6/250g;;;Trockenfrüchte
+;42313;Bananenchips gesüßt ;;kbA;PH;;3.59 €;7;;6/500g;;;Trockenfrüchte
+;42315;Bananenchips ungesüßt;;kbA;PH;;2.09 €;7;;6/250g;;;Trockenfrüchte
+;45826;Bananenchips gesalzen;;kbA;PH;;1.99 €;7;;6/250g;;;Trockenfrüchte
+;42308;Kokoschips geröstet ungesüßt;;kbA;LK;;2.19 €;7;;6/250g;;;Trockenfrüchte
+;40322;Kokosraspel medium;;kbA;LK;;1.79 €;7;;6/200g;;;Trockenfrüchte
+;40887;Kokosnuss Streifen (smile) Rohkost;;kbA;LK;;1.89 €;7;;6/150g;;;Trockenfrüchte
+;21354;Knack- und Fruchtmischung;;kbA;DE;;10.58 €;7;;12,5kg;;;Bode Mischungen
+;21283;Nusskernmischung;;kbA;DE;;13.40 €;7;;5kg;;;Bode Mischungen
+;21116;Nusskernmischung mit Pekannusskernen ;;kbA;DE;;12.66 €;7;;12,5kg;;;Bode Mischungen
+;27069;Nusskernmischung mit Pekannusskerne;;kbA;DE;;12.45 €;7;;25kg;;;Bode Mischungen
+;22760;Bruchkernmischung;;kbA;DE;;10.32 €;7;;12,5kg;;;Bode Mischungen
+;42761;Bruchkernmischung;;kbA;DE;;12.19 €;7;;1kg;;;Bode Mischungen
+;42762;Bruchkernmischung;;kbA;DE;;11.09 €;7;;5kg;;;Bode Mischungen
+;21126;Studentenfutter;;kbA;DE;;8.95 €;7;;12,5kg;;;Bode Mischungen
+;21274;Studentenfutter mit Pekannusskernen ;;kbA;DE;;9.52 €;7;;12,5kg;;;Bode Mischungen
+;27026;Nuss-Frucht Mix Superfood;;kbA;DE;;11.33 €;7;;12,5kg;;;Bode Mischungen
+;20940;Couch Crunch - Nuss-Frucht Mix geröstet & gesalzen;;kbA;DE;;9.58 €;7;;25kg;;;Bode Mischungen
+;40941;Couch Crunch - Nuss-Frucht Mix geröstet & gesalzen;;kbA;DE;;10.29 €;7;;5kg;;;Bode Mischungen
+;22728;Quinestrone Karotte/Lauch;;kbA;DE;;8.10 €;7;;5kg;;;Bode Mischungen
+;22729;Quinestrone Paprika;;kbA;DE;;8.95 €;7;;5kg;;;Bode Mischungen
+;27012;Berry on Top - Superfood Mix mit Chia & Beeren;;kbA;DE;;9.64 €;7;;10kg;;;Bode Mischungen
+;27030;Salat Topping ;;kbA;DE;;6.76 €;7;;12,5kg;;;Bode Mischungen
+;27027;Quinoa Porridge Chia & Vanille ;;kbA;DE;;6.62 €;7;;20kg;;;Bode Mischungen
+;27028;Quinoa Porridge Cranberry & Schoko;;kbA;DE;;5.23 €;7;;20kg;;;Bode Mischungen
+;27031;Quinoa Porridge Berren & Erdmandeln;;kbA;DE;;5.18 €;7;;20kg;;;Bode Mischungen
+;20012;Porridge Apfel & Zimt mit Quinoa;;kbA;DE;;4.86 €;7;;20kg;;;Bode Mischungen
+;21108;Müsli Nuss;;kbA;DE;;3.80 €;7;;12,5kg;;;Bode Mischungen
+;27053;Müsli Nuss;;kbA;DE;;3.69 €;7;;25kg;;;Bode Mischungen
+;21113;Müsli Früchte ;;kbA;DE;;3.07 €;7;;12,5kg;;;Bode Mischungen
+;27054;Müsli Früchte;;kbA;DE;;2.96 €;7;;25kg;;;Bode Mischungen
+;21114;Müsli tropisch;;kbA;DE;;2.74 €;7;;12,5kg;;;Bode Mischungen
+;20798;Müsli tropisch;;kbA;DE;;2.60 €;7;;25kg;;;Bode Mischungen
+;20829;Müsli Blaubeer;;kbA;DE;;4.71 €;7;;25kg;;;Bode Mischungen
+;21115;Müsli Blaubeer;;kbA;DE;;4.82 €;7;;12,5kg;;;Bode Mischungen
+;21125;Müsli Amaranth-Beeren;;kbA;DE;;4.22 €;7;;12,5kg;;;Bode Mischungen
+;20799;Müsli Vital;;kbA;DE;;2.73 €;7;;25kg;;;Bode Mischungen
+;21127;Müsli Vital;;kbA;DE;;2.85 €;7;;12,5kg;;;Bode Mischungen
+;21133;Müsli Schoko;;kbA;DE;;4.18 €;7;;12,5kg;;;Bode Mischungen
+;27046;Müsli Schoko;;kbA;DE;;4.08 €;7;;20kg;;;Bode Mischungen
+;21144;Müsli Erdbeer;;kbA;DE;;3.48 €;7;;12,5kg;;;Bode Mischungen
+;21389;Müsli Amaranth-Beere;;kbA;DE;;4.12 €;7;;20kg;;;Bode Mischungen
+;21390;Müsli Erdbeer;;kbA;DE;;3.38 €;7;;25kg;;;Bode Mischungen
+;20797;Müsli Dinkel mit Früchten;;kbA;DE;;5.98 €;7;;20kg;;;Bode Mischungen
+;21217;Müsli Dinkel mit Früchten;;kbA;DE;;6.09 €;7;;12,5kg;;;Bode Mischungen
+;21104;Crunchy Frucht (Hafer);;kbA;DE;;5.28 €;7;;6kg;;;Bode Mischungen
+;21119;Knabber-Crunchy (Hafer);;kbA;DE;;6.04 €;7;;6kg;;;Bode Mischungen
+;21120;Crunchy Schoko (Hafer, Reis);;kbA;DE;;6.14 €;7;;6kg;;;Bode Mischungen
+;21143;Crunchy Erdbeer (Hafer);;kbA;DE;;7.68 €;7;;5kg;;;Bode Mischungen
+;21224;Crunchy Dinkel mit Cranberries;;kbA;DE;;6.39 €;7;;6kg;;;Bode Mischungen
+;21225;Crunchy Dinkel mit Cranberries;;kbA;DE;;5.64 €;7;;25kg;;;Bode Mischungen
+;23447;Crunchy Nuss (Hafer);;kbA;DE;;5.78 €;7;;25kg;;;Bode Mischungen
+;27018;Crunchy Erdbeer (Hafer);;kbA;DE;;6.34 €;7;;20kg;;;Bode Mischungen
+;27019;Crunchy Schoko (Hafer, Reis);;kbA;DE;;5.44 €;7;;20kg;;;Bode Mischungen
+;27066;Coffee Kick (Nuss-Frucht-Mischung Espresso);;kbA;DE;;11.47 €;7;;12,5kg;;;Bode Mischungen
+;27072;Luxusleben-Macadamia Nuss-Frucht-Mix;ohne Rosinen;kbA;DE;;13.02 €;7;;12,5kg;;;Bode Mischungen
+;27073;Zaubernuss Macadamia-Nuss-Mix;;kbA;DE;;16.54 €;7;;12,5kg;;;Bode Mischungen
+;48089;Bode Box Garden Love;;kbA;DE;;21.18 €;7;;1Kt.;;;Bode Mischungen
+;48082;Bode Bio Box Happiness;;kbA;DE;;21.18 €;7;;1Kt.;;;Bode Mischungen
+;48083;Bode Bio Box Wellness;;kbA;DE;;21.18 €;7;;1Kt.;;;Bode Mischungen
+;41223;Knack- und Fruchtmischung;;kbA;DE;;2.49 €;7;;6/175g;;;Bode Mischungen
+;41145;Nusskernmischung;;kbA;DE;;3.79 €;7;;6/250g;;;Bode Mischungen
+;41146;Nusskernmischung;;kbA;DE;;7.29 €;7;;6/500g;;;Bode Mischungen
+;41130;Studentenfutter;;kbA;DE;;2.89 €;7;;6/250g;;;Bode Mischungen
+;41127;Studentenfutter;;kbA;DE;;5.49 €;7;;6/500g;;;Bode Mischungen
+;41202;Studentenfutter mit Cranberries;;kbA;DE;;2.99 €;7;;6/250g;;;Bode Mischungen
+;48051;Nuss-Frucht Mix Superfood;;kbA;DE;;2.89 €;7;;6/200g;;;Bode Mischungen
+;40942;Couch Crunch Nuss-Frucht Mix geröstet & gesalzen;;kbA;DE;;2.29 €;7;;6x175g;;;Bode Mischungen
+;48059;Quinoa Porridge Chia & Vanille;;kbA;DE;;3.29 €;7;;6/400g;;;Bode Mischungen
+;48065;Quinoa Porridge Cranberry & Schoko;;kbA;DE;;2.79 €;7;;6/400g;;;Bode Mischungen
+;40212;Porridge Apfel & Zimt mit Quinoa ;;kbA;DE;;2.59 €;7;;6/400g;;;Bode Mischungen
+;41165;Crunchy Nuss (Hafer);;kbA;DE;;3.99 €;7;;6/500g;;;Bode Mischungen
+;41166;Crunchy Frucht (Hafer);;kbA;DE;;3.39 €;7;;6/500g;;;Bode Mischungen
+;41169;Crunchy Schoko (Hafer, Reis);;kbA;DE;;3.74 €;7;;6/500g;;;Bode Mischungen
+;41170;Crunchy Nuss-Amaranth (Hafer);;kbA;DE;;4.19 €;7;;6/500g;;;Bode Mischungen
+;41172;Crunchy Erdbeer (Hafer);;kbA;DE;;4.19 €;7;;6/500g;;;Bode Mischungen
+;41185;Crunchy Dinkel mit Cranberries;;kbA;DE;;3.89 €;7;;6/500g;;;Bode Mischungen
+;48080;Coffee Kick (Nuss-Frucht Mischung Espresso) ;;kbA;DE;;2.62 €;7;;6/200g;;;Bode Mischungen
+;21602;Alfalfa ;;kbA;CN;;9.78 €;7;;25kg;;;Saaten
+;21628;Chiasaat schwarz;;kbA;PY/AR;;8.36 €;7;;25kg;;;Saaten
+;41657;Chiasaat schwarz;;kbA;PY;;9.09 €;7;;5kg;;;Saaten
+;40877;Hanfsamen geschält ungeröstet;;kbA;CN;;11.29 €;7;;5kg;;;Saaten
+;21610;Hanfsamen geschält ungeröstet ;;kbA;CN;;10.49 €;7;;20kg;;;Saaten
+;40878;Hanfsamen ungeschält ungeröstet;;kbA;CN;;4.79 €;7;;5kg;;;Saaten
+;21634;Hanfsamen ungeschält ungeröstet;;kbA;CN/FR;;4.01 €;7;;25kg;;;Saaten
+;23224;Senfsaat braun ganz;;kbA;IN;;4.22 €;7;;25kg;;;Saaten
+;23205;Gelbsenfsaat ganz;;kbA;IN;;6.68 €;7;;25kg;;;Saaten
+;21608;Kürbiskerne dunkelgrün GWS China;;kbA;CN;;10.34 €;7;;25kg;;;Saaten
+;40568;Kürbiskerne dunkelgrün Europa;;kbA;AU;;12.69 €;7;;5kg;;;Saaten
+;21606;Kürbiskerne dunkelgrün Premium Europa;;kbA;AU/HU;;11.98 €;7;;25kg;;;Saaten
+;21604;Kürbiskerne hellgr. shine skin China;;kbA;CN;;9.98 €;7;;25kg;;;Saaten
+;21653;Kürbiskerne dunkelgrün GWS Grade AA China;;kbA;CN;;10.64 €;7;;25kg;;;Saaten
+;40558;Leinsaat braun;;kbA;IN;;4.39 €;7;;5kg;;;Saaten
+;21613;Leinsaat braun;;kbA;IN;;3.68 €;7;;25kg;;;Saaten
+;21646;Leinsaat braun Europa ;;kbA;PL/CZ/FR;;3.98 €;7;;25kg;;;Saaten
+;21618;Leinsaat goldgelb;;kbA;RUS;;4.48 €;7;;25kg;;;Saaten
+;21637;Leinsaat goldgelb Europa ;;kbA;PL/CZ/KZ;;4.56 €;7;;25kg;;;Saaten
+;41605;Blaumohn;;kbA;TR;;7.09 €;7;;5kg;;;Saaten
+;21622;Blaumohn;;kbA;TR;;6.30 €;7;;25kg;;;Saaten
+;21623;Weißmohn;;kbA;TR;;8.96 €;7;;25kg;;;Saaten
+;41648;Sesamsaat ungeschält;;kbA;PY;;4.54 €;7;;5kg;;;Saaten
+;21614;Sesamsaat ungeschält;;kbA;IN/PY/HU;;3.86 €;7;;25kg;;;Saaten
+;21726;Sesamsaat ungeschält Demeter Ägypten ;;kbdA*;EG;;5.88 €;7;;25kg;;;Saaten
+;40561;Sesamsaat geschält;;kbA;IN;;5.44 €;7;;5kg;;;Saaten
+;21619;Sesamsaat geschält ;;kbA;IN;;4.76 €;7;;25kg;;;Saaten
+;21639;Sesamsaat schwarz ungeschält;;kbA;BO/IN;;4.47 €;7;;25kg;;;Saaten
+;21629;Sonnenblumenkerne Bakery;;kbA;CN;;3.99 €;7;;25kg;;;Saaten
+;21645;Sonnenblumenkerne Bakery Europa ;;kbA;HU;;3.89 €;7;;25kg;;;Saaten
+;40569;Sonnenblumenkerne Confectionary;;kbA;IT;;5.09 €;7;;5kg;;;Saaten
+;21617;Sonnenblumenkerne Confectionary;;kbA;CN;;4.39 €;7;;25kg;;;Saaten
+;21650;Sonnenblumenkerne Confectionary Europa ;;kbA;IT;;4.29 €;7;;25kg;;;Saaten
+;21748;Sonnenblumenkerne High Oleic ;;kbA;RO;;4.81 €;7;;25kg;;;Saaten
+;21616;Sonnenblumenkerne Demeter ;;kbdA*;HU;;4.86 €;7;;25kg;;;Saaten
+;23514;Flohsamen hell (Indien);;kbA;IN;;5.24 €;7;;25kg;;;Saaten
+;23521;Flohsamenschalen;;kbA;IN;;14.89 €;7;;25kg;;;Saaten
+;23592;Flohsamenschalen gemahlen;;kbA;IN;;21.09 €;7;;25kg;;;Saaten
+;21740;Rapssaat für Öl (erucasäurearm) ;;kbA;HR;;4.70 €;7;;25kg;;;Saaten
+;41603;Alfalfa ;;kbA;CN;;11.59 €;7;;1kg;;;Saaten
+;45714;Chiasaat schwarz;;kbA;PY;;5.19 €;7;;6/500g;;;Saaten
+;41643;Kürbiskerne dunkelgrün China;;kbA;CN;;6.19 €;7;;6/500g;;;Saaten
+;41630;Kürbiskerne dunkelgrün Europa;;kbA;AU/UA/CZ;;7.09 €;7;;6/500g;;;Saaten
+;41644;Kürbiskerne dunkelgrün Europa;;kbA;AU/UA/CZ;;12.99 €;7;;6/1000g;;;Saaten
+;41609;Kürbiskerne hellgrün China;;kbA;CN;;2.69 €;7;;6/200g;;;Saaten
+;41631;Kürbiskerne hellgrün China;;kbA;CN;;6.09 €;7;;6/500g;;;Saaten
+;41645;Blaumohn;;kbA;CZ;;4.19 €;7;;6/500g;;;Saaten
+;41623;Sesamsaat ungeschält;;kbA;IN/UG;;2.94 €;7;;6/500g;;;Saaten
+;40379;Sesamsaat geschält ;;kbA;IN/UG;;1.79 €;7;;6/250g;;;Saaten
+;41656;Sesamsaat schwarz;;kbA;BO;;1.74 €;7;;6/250g;;;Saaten
+;40660;Gelbsenfsaat ganz ;;kbA;IN;;8.49 €;7;;1kg;;;Saaten
+;41618;Sonnenblumenkerne;;kbA;IT;;3.14 €;7;;6/500g;;;Saaten
+;41625;Sonnenblumenkerne;;kbA;IT/CN;;5.39 €;7;;6/1000g;;;Saaten
+;48056;Flohsamenschalen;;kbA;IN;;7.24 €;7;;6/400g;;;Saaten
+;45838;Flohsamenschalen gemahlen (Indien);;kbA;IN;;3.99 €;7;;6/500g;;;Saaten
+;42669;Azukibohnen ;;kbA;CN;;4.79 €;7;;5kg;;;Hülsenfrüchte
+;20821;Azukibohnen ;;kbA;CN;;4.09 €;7;;25kg;;;Hülsenfrüchte
+;20816;Linsen schwarz (Beluga) ;;kbA;CA;;3.49 €;7;;25kg;;;Hülsenfrüchte
+;20811;Berglinsen grün (Typ du Puy);;kbA;CA;;3.29 €;7;;25kg;;;Hülsenfrüchte
+;20814;Berglinsen braun (Gourmet) ;;kbA;CA;;2.53 €;7;;25kg;;;Hülsenfrüchte
+;42668;Bohnen schwarz (black turtle);;kbA;CN;;3.80 €;7;;5kg;;;Hülsenfrüchte
+;20823;Bohnen schwarz (black turtle);;kbA;CN;;3.06 €;7;;25kg;;;Hülsenfrüchte
+;42665;Linsen braun (Teller, Laird);;kbA;IT;;4.79 €;7;;5kg;;;Hülsenfrüchte
+;20809;Linsen braun (Teller, Laird);;kbA;IT/TR;;3.99 €;7;;25kg;;;Hülsenfrüchte
+;20805;Kichererbsen 7-8 mm ;;kbA;TR;;3.07 €;7;;25kg;;;Hülsenfrüchte
+;20803;Erbsen grün ;;kbA;IT;;2.10 €;7;;25kg;;;Hülsenfrüchte
+;20804;Erbsen split grün;;kbA;HU/SK;;2.85 €;7;;25kg;;;Hülsenfrüchte
+;20806;Hülsenfrüchte Mix;;kbA;DE;;3.16 €;7;;25kg;;;Hülsenfrüchte
+;20807;Kidneybohnen rot ;;kbA;CN;;3.50 €;7;;25kg;;;Hülsenfrüchte
+;20363;Lupinen weiss ganz;;kbA;DE;;4.50 €;7;;25kg;;;Hülsenfrüchte
+;20362;Lupinenschrot süß (aus weisser Lupine);;kbA;FR;;5.79 €;7;;25kg;;;Hülsenfrüchte
+;40559;Linsen rot;;kbA;TR;;5.59 €;7;;5kg;;;Hülsenfrüchte
+;20810;Linsen rot;;kbA;TR;;4.79 €;7;;25kg;;;Hülsenfrüchte
+;20824;Linsen rot Split;;kbA;TR;;4.79 €;7;;25kg;;;Hülsenfrüchte
+;23528;Linsen gelb split ;;kbA;TR;;4.79 €;7;;25kg;;;Hülsenfrüchte
+;20813;Mungbohnen ;;kbA;CN;;3.80 €;7;;25kg;;;Hülsenfrüchte
+;20822;Pintobohnen (Borlotti);;kbA;CN;;3.06 €;7;;25kg;;;Hülsenfrüchte
+;20817;Sojabohnen;;kbA;CN;;2.21 €;7;;25kg;;;Hülsenfrüchte
+;20610;Sojabohnen Europa ;;kbA;IT;;2.42 €;7;;25kg;;;Hülsenfrüchte
+;42666;Weiße Bohnen Riesen;;kbA;CN;;6.39 €;7;;5kg;;;Hülsenfrüchte
+;20820;Weiße Bohnen Riesen;;kbA;CN;;4.55 €;7;;25kg;;;Hülsenfrüchte
+;20819;Weiße Bohnen;;kbA;CN;;4.20 €;7;;25kg;;;Hülsenfrüchte
+;40811;Linsen schwarz (Beluga);;kbA;CA;;2.74 €;7;;6/500g;;;Hülsenfrüchte
+;40825;Bohnen schwarz (black turtle);;kbA;CN;;2.58 €;7;;6/500g;;;Hülsenfrüchte
+;40810;Linsen braun (Teller, Laird);;kbA;TR/IT;;3.09 €;7;;6/500g;;;Hülsenfrüchte
+;40812;Berglinsen grün (Typ du Puy);;kbA;CA;;2.69 €;7;;6/500g;;;Hülsenfrüchte
+;40815;Berglinsen braun (Gourmet);;kbA;TR;;2.29 €;7;;6/500g;;;Hülsenfrüchte
+;40804;Erbsen grün;;kbA;IT;;2.09 €;7;;6/500g;;;Hülsenfrüchte
+;40807;Hülsenfrüchte Mix;;kbA;DE;;2.59 €;7;;6/500g;;;Hülsenfrüchte
+;40808;Kidneybohnen rot ;;kbA;CN;;2.74 €;7;;6/500g;;;Hülsenfrüchte
+;40806;Kichererbsen;;kbA;TR;;2.59 €;7;;6/500g;;;Hülsenfrüchte
+;40822;Linsen rot;;kbA;TR;;3.49 €;7;;6/500g;;;Hülsenfrüchte
+;42717;Lupinen weiss ganz;;kbA;DE;;3.29 €;7;;6/500g;;;Hülsenfrüchte
+;40814;Mungbohnen;;kbA;CN;;2.99 €;7;;6/500g;;;Hülsenfrüchte
+;40826;Pintobohnen (Borlotti);;kbA;CN;;2.59 €;7;;6/500g;;;Hülsenfrüchte
+;40820;Weiße Bohnen;;kbA;CN;;3.19 €;7;;6/500g;;;Hülsenfrüchte
+;40827;Weiße Bohnen Riesen;;kbA;CN;;3.29 €;7;;6/500g;;;Hülsenfrüchte
+;20401;Amaranth ;;kbA;IN/PE;;3.54 €;7;;25kg;;;Getreide
+;40554;Buchweizen;;kbA;CN;;3.99 €;7;;5kg;;;Getreide
+;20402;Buchweizen geschält;;kbA;CN;;3.27 €;7;;25kg;;;Getreide
+;23351;Buchweizen geschält Europa;;kbA;PL;;5.09 €;7;;25kg;;;Getreide
+;20404;Buchweizengrütze;;kbA;CN/LT;;3.18 €;7;;25kg;;;Getreide
+;20604;Buchweizenflocken;;kbA;CN;;4.92 €;7;;25kg;;;Getreide
+;40549;Buchweizenmehl;;kbA;CN;;3.69 €;7;;5kg;;;Getreide
+;20830;Buchweizen geröstet;;kbA;CN;;5.86 €;7;;25kg;;;Getreide
+;25060;Buchweizen geröstet;;kbA;CN;;6.61 €;7;;8kg;;;Getreide
+;40520;Bulgur grob;;kbA;TR;;2.79 €;7;;5kg;;;Getreide
+;20416;Bulgur medium;;kbA;TR;;2.00 €;7;;25kg;;;Getreide
+;20414;Couscous Vollkorn;;kbA;IT;;2.73 €;7;;25kg;;;Getreide
+;20405;Dinkel;;kbA;DE;;2.63 €;7;;25kg;;;Getreide
+;20412;Dinkel Demeter;;kbdA*;DE;;3.48 €;7;;25kg;;;Getreide
+;20517;Dinkelvollkornmehl;;kbA;DE/SK;;2.63 €;7;;25kg;;;Getreide
+;20519;Dinkelmehl Type 630 ;;kbA;DE/SK;;2.74 €;7;;25kg;;;Getreide
+;20407;Gerstengraupen ganz (Rollgerste, Kochgerste) ;;kbA;DE/AT;;1.98 €;7;;25kg;;;Getreide
+;20501;Gerstenflocken;;kbA;DE;;1.44 €;7;;25kg;;;Getreide
+;20338;Gerstenmalzpulver;;kbA;NL;;7.04 €;7;;25kg;;;Getreide
+;20529;Paniermehl Vollkorn(Weizenvollkornmehl) ;;kbA;NL;;3.12 €;7;;25kg;;;Getreide
+;20434;Mais;;kbA;NL;;2.03 €;7;;25kg;;;Getreide
+;20415;Popcornmais;;kbA;IT;;2.26 €;7;;25kg;;;Getreide
+;20312;Maisstärke weiß glutenfrei;;kbA;AT;;2.32 €;7;;25kg;;;Getreide
+;20550;Maisgrieß (Polenta);;kbA;AT;;1.97 €;7;;25kg;;;Getreide
+;20603;Einkorn;;kbA;DE;;2.99 €;7;;25kg;;;Getreide
+;20602;Emmer;;kbA;DE;;2.95 €;7;;25kg;;;Getreide
+;40562;Hirse geschält ;;kbA;PL;;3.39 €;7;;5kg;;;Getreide
+;20420;Hirse geschält  Europa;;kbA;UA;;2.68 €;7;;25kg;;;Getreide
+;20413;Hirse geschält ;;kba;CN;;2.34 €;7;;25kg;;;Getreide
+;20569;Braunhirse;;kbA;AT;;2.63 €;7;;25kg;;;Getreide
+;20431;Hirsegrütze grob Europa;;kbA;PL;;1.53 €;7;;25kg;;;Getreide
+;20506;Hirseflocken ;;kbA;UA;;3.16 €;7;;25kg;;;Getreide
+;20510;Hirsevollkornmehl;;kbA;AT;;2.27 €;7;;25kg;;;Getreide
+;20418;Hafer geschält ;;kbA;DE;;2.64 €;7;;25kg;;;Getreide
+;20411;Nackthafer Demeter;;kbdA*;DE;;2.83 €;7;;25kg;;;Getreide
+;20503;Haferflocken fein;;kbA;SE;;1.79 €;7;;25kg;;;Getreide
+;20505;Haferflocken grob;;kbA;DE/LV;;1.79 €;7;;25kg;;;Getreide
+;20574;Hartweizengrieß hell ;;kbA;IT;;2.42 €;7;;25kg;;;Getreide
+;40419;Quinoa weiss;;kbA;BO;;6.39 €;7;;5kg;;;Getreide
+;20417;Quinoa weiss;;kbA;PE/BO/ES;;4.54 €;7;;25kg;;;Getreide
+;23261;Quinoa rot;;kbA;PE/BO;;4.65 €;7;;25kg;;;Getreide
+;23262;Quinoa schwarz;;kbA;PE/BO;;4.86 €;7;;25kg;;;Getreide
+;21384;Quinoa Tricolore;;kbA;DE;;5.14 €;7;;12,5kg;;;Getreide
+;40800;Basmatireis weiß;;kbA;PK/IN;;3.59 €;7;;5kg;;;Getreide
+;20554;Basmatireis weiß;;kbA;PK/IN;;2.85 €;7;;25kg;;;Getreide
+;20553;Basmatireis Vollkorn;;kbA;PK/IN;;2.74 €;7;;25kg;;;Getreide
+;20426;Duftreis weiß;;kbA;IT;;3.12 €;7;;25kg;;;Getreide
+;20562;Langkornreis schwarz;;kbA;IT;;5.14 €;7;;25kg;;;Getreide
+;20648;Risottoreis weiß Italien;;kbA;IT;;3.56 €;7;;25kg;;;Getreide
+;20567;Jasminreis weiß ;;kbA;TH;;3.16 €;7;;25kg;;;Getreide
+;20568;Jasminreis Vollkorn;;kbA;TH;;3.16 €;7;;25kg;;;Getreide
+;20422;Langkornreis weiß;;kbA;PK/IN;;2.10 €;7;;25kg;;;Getreide
+;20421;Langkornreis Vollkorn;;kbA;PK/IN;;2.06 €;7;;25kg;;;Getreide
+;20427;Langkornreis weiß Parboiled;;kbA;PK/IN;;2.74 €;7;;25kg;;;Getreide
+;20445;Reismischung  (Lang,Rot,Schwarz,Wild) ;;kbA;DE;;3.87 €;7;;12,5kg;;;Getreide
+;20446;Reis rot;;kbA;TH;;3.16 €;7;;25kg;;;Getreide
+;42664;Rundkornreis weiß (Milchreis);;kbA;IT;;3.44 €;7;;5kg;;;Getreide
+;20424;Rundkornreis weiß (Milchreis);;kbA;IT;;2.74 €;7;;25kg;;;Getreide
+;20423;Rundkornreis Vollkorn ;;kbA;IT;;2.42 €;7;;25kg;;;Getreide
+;20436;Wildreis;;kbA;USA;;22.30 €;7;;25kg;;;Getreide
+;20530;Reisflocken;;kbA;IT;;3.48 €;7;;20kg;;;Getreide
+;20539;Reismehl Vollkorn glutenfrei;;kbA;DE;;2.85 €;7;;25kg;;;Getreide
+;21138;Reiscrispies ungesüßt;;kbA;DE;;4.97 €;7;;20kg;;;Getreide
+;20430;Roggen;;kbA;DE;;1.19 €;7;;25kg;;;Getreide
+;20507;Roggenflocken ;;kbA;DE;;1.04 €;7;;25kg;;;Getreide
+;20515;Roggenvollkornmehl;;kbA;DE;;1.22 €;7;;25kg;;;Getreide
+;20585;Roggenmehl Type 1150 ;;kbA;DE;;1.26 €;7;;25kg;;;Getreide
+;20618;Teffmehl ;;kbA;NL;;6.45 €;7;;25kg;;;Getreide
+;20511;Vier-Flocken-Mischung;;kbA;DE;;2.10 €;7;;25kg;;;Getreide
+;20432;Weizen;;kbA;DE;;1.68 €;7;;25kg;;;Getreide
+;20448;KAMUT® Khorasan Weizen;;kbA;CA;;3.87 €;7;;25kg;;;Getreide
+;20541;Weizenspeisekleie;;kbA;DE;;1.74 €;7;;25kg;;;Getreide
+;20336;Weizenstärke ;;kbA;CZ;;1.93 €;7;;25kg;;;Getreide
+;40547;Weizengluten Europa;;kbA;CN;;9.09 €;7;;5kg;;;Getreide
+;23352;Buchweizenmehl glutenfrei ;;kbA;CN;;2.93 €;7;;25kg;;;Getreide
+;26012;Weizengluten Europa;;kbA;AT;;8.37 €;7;;25kg;;;Getreide
+;20509;Weizenflocken;;kbA;AU;;1.29 €;7;;25kg;;;Getreide
+;20504;Weizenmehl Type 1050;;kbA;DE;;0.98 €;7;;25kg;;;Getreide
+;20525;Weizenmehl Type 550;;kbA;DE;;1.04 €;7;;25kg;;;Getreide
+;20508;Weizenvollkornmehl;;kbA;DE;;1.00 €;7;;25kg;;;Getreide
+;20502;Dinkelflocken;;kbA;DE;;2.70 €;7;;25kg;;;Getreide
+;20412;Dinkel Demeter ;;kbdA*;DE;;3.48 €;7;;25kg;;;Getreide
+;20409;Grünkern Demeter;;kbdA*;DE;;4.86 €;7;;25kg;;;Getreide
+;20607;Hirse geschält Demeter ;;kbdA*;CZ/AT;;5.18 €;7;;25kg;;;Getreide
+;20429;Roggen Demeter ;;kbdA*;DE;;1.44 €;7;;25kg;;;Getreide
+;20433;Weizen Demeter ;;kbdA*;DE;;1.73 €;7;;25kg;;;Getreide
+;23495;Weizenmehl Type 405 Demeter ;;kbdA*;DE;;1.46 €;7;;25kg;;;Getreide
+;20647;Weizenmehl Type 550 Bioland;;kbA;DE;;1.20 €;7;;25kg;;;Getreide
+;21260;Quinoa gepufft ;;kbA;DE;;10.49 €;7;;15kg;;;Getreide
+;40401;Amaranth ;;kbA;IN;;2.79 €;7;;6/500g;;;Getreide
+;40403;Buchweizen;;kbA;CN;;2.69 €;7;;6/500g;;;Getreide
+;40521;Buchweizenmehl;;kbA;CN;;3.69 €;7;;6/1000g;;;Getreide
+;40534;Bulgur grob;;kbA;TR;;2.09 €;7;;6/500g;;;Getreide
+;40538;Couscous Vollkorn;;kbA;IT;;2.39 €;7;;6/500g;;;Getreide
+;40406;Dinkel;;kbA;DE;;2.39 €;7;;6/500g;;;Getreide
+;40535;Dinkelvollkornmehl Bauck;;kbA;DE;;3.86 €;7;;8/1000g;;;Getreide
+;40414;Hirse;;kbA;UA/PL;;2.34 €;7;;6/500g;;;Getreide
+;40504;Haferflocken fein;;kbA;SE;;1.99 €;7;;6/500g;;;Getreide
+;40516;Haferflocken fein;;kbA;SE;;2.89 €;7;;6/1000g;;;Getreide
+;40506;Haferflocken grob;;kbA;SE;;1.99 €;7;;6/500g;;;Getreide
+;40517;Haferflocken grob ;;kbA;SE;;2.89 €;7;;6/1000g;;;Getreide
+;40324;Maisstärke weiß;;kbA;AT;;3.69 €;7;;6/1000g;;;Getreide
+;40455;Quinoa weiss;;kbA;PE/BO;;3.29 €;7;;6/500g;;;Getreide
+;48013;Quinoa rot;;kbA;PE/BO;;3.39 €;7;;6/500g;;;Getreide
+;48055;Quinoa schwarz;;kbA;PE/BO;;3.49 €;7;;6/500g;;;Getreide
+;40123;Quinoa Tricolore;;kbA;DE;;1.89 €;7;;6/250g;;;Getreide
+;40451;Basmatireis weiß;;kbA;PK/IN;;2.49 €;7;;6/500g;;;Getreide
+;40442;Basmatireis Vollkorn;;kbA;PK/IN;;2.39 €;7;;6/500g;;;Getreide
+;40427;Duftreis weiß ;;kbA;IT;;2.59 €;7;;6/500g;;;Getreide
+;40470;Langkornreis schwarz ;;kbA;IT;;3.59 €;7;;6/500g;;;Getreide
+;40474;Risottoreis weiß ;;kbA;IT;;2.79 €;7;;6/500g;;;Getreide
+;40459;Jasminreis weiss;;kbA;TH;;2.59 €;7;;6/500g;;;Getreide
+;40460;Jasminreis Vollkorn;;kbA;TH;;2.59 €;7;;6/500g;;;Getreide
+;40421;Langkornreis weiß ;;kbA;PK/IN;;2.09 €;7;;6/500g;;;Getreide
+;40444;Langkornreis Vollkorn;;kbA;PK/IN;;2.09 €;7;;6/500g;;;Getreide
+;40465;Langkornreis weiß parboiled;;kbA;PK/IN;;2.39 €;7;;6/500g;;;Getreide
+;40417;Reismischung Lang/Rot/Wild/Schw.;;kbA;DE;;2.99 €;7;;6/500g;;;Getreide
+;40425;Rundkornreis weiß (Milchreis);;kbA;IT;;2.39 €;7;;6/500g;;;Getreide
+;40445;Rundkornreis Vollkorn ;;kbA;IT;;2.29 €;7;;6/500g;;;Getreide
+;40447;Weizen ;;kbA;DE;;1.84 €;7;;6/500g;;;Getreide
+;40529;Weizenmehl Type 1050 Bauck ;;kbA;DE;;1.85 €;7;;8/1000g;;;Getreide
+;40528;Weizenmehl Type 550 Bauck;;kbA;DE;;1.85 €;7;;8/1000g;;;Getreide
+;40501;Dinkelflocken ;;kbA;DE;;1.15 €;7;;6/500g;;;Getreide
+;48058;Quinoaflocken;;kbA;DE;;2.29 €;7;;6/250g;;;Getreide
+;41260;Quinoa gepufft ;;kbA;DE;;1.69 €;7;;6/100g;;;Getreide
+;21181;Cornflakes Schoko ;;kbA;DE;;8.68 €;7;;10kg;;;Müsli & Co
+;21132;Cornflakes Vollkorn;;kbA;DE;;4.05 €;7;;10kg;;;Müsli & Co
+;21103;Cornflakes hellgelb;;kbA;DE;;4.01 €;7;;15kg;;;Müsli & Co
+;21118;Crunchy Basis (Hafer, Reis);;kbA;DE;;4.68 €;7;;20kg;;;Müsli & Co
+;21121;Crunchy Schoko pur (Hafer, Dinkel);;kbA;DE;;5.44 €;7;;20kg;;;Müsli & Co
+;27019;Crunchy Schoko (Hafer, Reis);;kbA;DE;;5.44 €;7;;20kg;;;Müsli & Co
+;21120;Crunchy Schoko (Hafer, Reis);;kbA;DE;;6.14 €;7;;6kg;;;Müsli & Co
+;21104;Crunchy Frucht (Hafer);;kbA;DE;;5.28 €;7;;6kg;;;Müsli & Co
+;22831;Crunchy Frucht ;;kbA;DE;;4.74 €;7;;25kg;;;Müsli & Co
+;21102;Granola Honig & Sesam (Hafer);;kbA;DE;;5.94 €;7;;25kg;;;Müsli & Co
+;23447;Crunchy Nuss (Hafer);;kbA;DE;;5.78 €;7;;25kg;;;Müsli & Co
+;21109;Crunchy Nuss-Amaranth (Hafer);;kbA;DE;;7.09 €;7;;5kg;;;Müsli & Co
+;40205;Crunchy Nuss (Hafer);;kbA;DE;;6.49 €;7;;5kg;;;Müsli & Co
+;21222;Crunchy Dinkel;;kbA;DE;;5.28 €;7;;25kg;;;Müsli & Co
+;21224;Crunchy Dinkel mit Cranberries ;;kbA;DE;;6.39 €;7;;6kg;;;Müsli & Co
+;27018;Crunchy Erdbeer (Hafer);;kbA;DE;;6.34 €;7;;20kg;;;Müsli & Co
+;21143;Crunchy Erdbeer (Hafer);;kbA;DE;;7.68 €;7;;5kg;;;Müsli & Co
+;21140;Amaranth gepufft;;kbA;IN;;5.43 €;7;;15kg;;;Müsli & Co
+;23524;Buchweizen gepufft ;;kbA;CN;;7.40 €;7;;15kg;;;Müsli & Co
+;48039;Buchweizenflakes ;;kbA;GB/NF;;8.69 €;7;;5kg;;;Müsli & Co
+;20104;Dinkel gepufft mit Honig ;;kbA;DE;;6.34 €;7;;20kg;;;Müsli & Co
+;20547;Dinkelflakes ;;kbA;DE;;6.04 €;7;;15kg;;;Müsli & Co
+;23293;Dinkel gepufft ungesüßt;;kbA;DE;;5.56 €;7;;15kg;;;Müsli & Co
+;21177;Granola Apfel & Zimt (Hafer, Weizen);;kbA;DE;;5.64 €;7;;25kg;;;Müsli & Co
+;21125;Müsli Amaranth-Früchte;;kbA;DE;;4.22 €;7;;12,5kg;;;Müsli & Co
+;21389;Müsli Amaranth-Beere;;kbA;DE;;4.12 €;7;;25kg;;;Müsli & Co
+;21110;Müsli Basis ;;kbA;DE;;2.42 €;7;;12,5kg;;;Müsli & Co
+;27047;Müsli Basis ;;kbA;DE;;2.32 €;7;;25kg;;;Müsli & Co
+;23309;Basisches Frühstücksmüsli;;kbA;DE;;8.89 €;7;;25kg;;;Müsli & Co
+;41211;Bircher Müsli ;;kbA;DE;;3.91 €;7;;25kg;;;Müsli & Co
+;21115;Müsli Blaubeer;;kbA;DE;;4.82 €;7;;12,5kg;;;Müsli & Co
+;20829;Müsli Blaubeer;;kbA;DE;;4.71 €;7;;25kg;;;Müsli & Co
+;20797;Müsli Dinkel mit Früchten ;;kbA;DE;;5.98 €;7;;25kg;;;Müsli & Co
+;21217;Müsli Dinkel mit Früchten;;kbA;DE;;6.09 €;7;;12,5kg;;;Müsli & Co
+;21144;Müsli Erdbeer;;kbA;DE;;3.48 €;7;;12,5kg;;;Müsli & Co
+;21390;Müsli Erdbeer;;kbA;DE;;3.38 €;7;;25kg;;;Müsli & Co
+;21113;Müsli Früchte;;kbA;DE;;3.07 €;7;;12,5kg;;;Müsli & Co
+;27054;Müsli Früchte;;kbA;DE;;2.96 €;7;;25kg;;;Müsli & Co
+;21108;Müsli Nuss;;kbA;DE;;3.80 €;7;;12,5kg;;;Müsli & Co
+;21134;Müsli ohne Rosinen;;kbA;DE;;2.60 €;7;;25kg;;;Müsli & Co
+;21133;Müsli Schoko;;kbA;DE;;4.18 €;7;;12,5kg;;;Müsli & Co
+;27046;Müsli Schoko;;kbA;DE;;4.08 €;7;;20kg;;;Müsli & Co
+;20798;Müsli tropisch;;kbA;DE;;2.60 €;7;;25kg;;;Müsli & Co
+;21114;Müsli tropisch;;kbA;DE;;2.74 €;7;;12,5kg;;;Müsli & Co
+;21127;Müsli Vital;;kbA;DE;;2.85 €;7;;12,5kg;;;Müsli & Co
+;20799;Müsli Vital;;kbA;DE;;2.58 €;7;;25kg;;;Müsli & Co
+;21139;Schokocrisps ;;kbA;FR;;5.28 €;7;;10kg;;;Müsli & Co
+;27032;Müsli Superfood Premium;;kbA;DE;;6.03 €;7;;25kg;;;Müsli & Co
+;27033;Müsli Low Carb Protein plus;;kbA;DE;;4.70 €;7;;25kg;;;Müsli & Co
+;41134;Cornflakes Schoko;;kbA;DE;;2.79 €;7;;6/250g;;;Müsli & Co
+;41102;Cornflakes Vollkorn;;kbA;DE;;1.49 €;7;;6/200g;;;Müsli & Co
+;41169;Crunchy Schoko (Hafer, Reis);;kbA;DE;;3.74 €;7;;6/500g;;;Müsli & Co
+;41166;Crunchy Frucht (Hafer);;kbA;DE;;3.39 €;7;;6/500g;;;Müsli & Co
+;41104;Granola Honig & Sesam (Hafer);;kbA;DE;;3.99 €;7;;6/500g;;;Müsli & Co
+;41165;Crunchy Nuss (Hafer);;kbA;DE;;3.99 €;7;;6/500g;;;Müsli & Co
+;41170;Crunchy Nuss-Amaranth (Hafer);;kbA;DE;;4.19 €;7;;6/500g;;;Müsli & Co
+;41186;Crunchy Dinkel;;kbA;DE;;3.69 €;7;;6/500g;;;Müsli & Co
+;41185;Crunchy Dinkel mit Cranberries;;kbA;DE;;3.89 €;7;;6/500g;;;Müsli & Co
+;41172;Crunchy Erdbeer (Hafer);;kbA;DE;;4.19 €;7;;6/500g;;;Müsli & Co
+;41945;Dinkel gepufft mit Honig;;kbA;DE;;1.89 €;7;;6/200g;;;Müsli & Co
+;41248;Dinkelflakes ;;kbA;DE;;2.19 €;7;;6/250g;;;Müsli & Co
+;41178;Granola Apfel & Zimt (Hafer, Weizen);;kbA;DE;;3.84 €;7;;6/500g;;;Müsli & Co
+;41108;Müsli Amaranth-Beeren;;kbA;DE;;3.09 €;7;;6/500g;;;Müsli & Co
+;41112;Müsli Basis;;kbA;DE;;2.19 €;7;;6/500g;;;Müsli & Co
+;40888;Basisches Frühstücksmüsli;;kbA;DE;;5.44 €;7;;6/500g;;;Müsli & Co
+;41187;Müsli Dinkel mit Früchten;;kbA;DE;;4.09 €;7;;6/500g;;;Müsli & Co
+;41115;Müsli Früchte;;kbA;DE;;2.49 €;7;;6/500g;;;Müsli & Co
+;41116;Müsli Nuss;;kbA;DE;;2.89 €;7;;6/500g;;;Müsli & Co
+;41160;Müsli Schoko;;kbA;DE;;3.09 €;7;;6/500g;;;Müsli & Co
+;48066;Müsli Superfood Premium;;kbA;DE;;4.09 €;7;;6/500g;;;Müsli & Co
+;40530;Schokocrisps;;kbA;FR;;1.69 €;7;;6/200g;;;Müsli & Co
+;48067;Müsli Low Carb Protein plus;;kbA;DE;;3.39 €;7;;6/500g;;;Müsli & Co
+;20128;Konfitüre Johannisbeere passiert ;;kbA;DE;;6.03 €;7;;3kg;;;Honig & Muse
+;20109;Konfitüre Himbeere;;kbA;DE;;7.93 €;7;;3kg;;;Honig & Muse
+;20119;Konfitüre Aprikosen;;kbA;DE;;5.49 €;7;;3kg;;;Honig & Muse
+;20112;Konfitüre Hagebutte;;kbA;DE;;5.39 €;7;;3kg;;;Honig & Muse
+;20105;Konfitüre Aprikose;;kbA;DE;;6.03 €;7;;3kg;;;Honig & Muse
+;20106;Konfitüre Erdbeere;;kbA;DE;;6.03 €;7;;3kg;;;Honig & Muse
+;20108;Konfitüre Sauerkirsche;;kbA;DE;;6.03 €;7;;3kg;;;Honig & Muse
+;20110;Konfitüre Waldbeere;;kbA;DE;;6.66 €;7;;3kg;;;Honig & Muse
+;22264;Konfitüre Mehrfrucht passiert;;kbA;DE;;5.45 €;7;;3kg;;;Honig & Muse
+;21212;Cashewmus ;;kbA;DE;;21.09 €;7;;10kg;;;Honig & Muse
+;21211;Erdnussmus fein 100 % Erdnuss;;kbA;DE;;9.25 €;7;;10kg;;;Honig & Muse
+;21213;Erdnussmus grob mit Salz;;kbA;DE;;9.37 €;7;;10kg;;;Honig & Muse
+;20722;Honig Backqualität ;;kbA;CN;;5.88 €;7;;5kg;;;Honig & Muse
+;20720;Honig Backqualität ;;kbA;CN;;5.67 €;7;;25kg;;;Honig & Muse
+;20726;Blütenhonig Bulgarien ;;kbA;BG;;8.26 €;7;;25kg;;;Honig & Muse
+;21210;Mandelmus braun;;kbA;DE;;24.33 €;7;;10kg;;;Honig & Muse
+;21215;Mandelmus weiß;;kbA;DE;;25.75 €;7;;10kg;;;Honig & Muse
+;21208;Nuss-Mischmus;;kbA;DE;;23.92 €;7;;10kg;;;Honig & Muse
+;21209;Sesammus herb (Tahin) 100% Sesam ;;kbA;DE;;10.85 €;7;;10kg;;;Honig & Muse
+;20704;Akazienhonig Deutschland;;kbA;DE;;7.79 €;7;;6/500g;;;Honig & Muse
+;20735;Blütenhonig cremig;;kbA;RO;;4.97 €;7;;6/500g;;;Honig & Muse
+;20740;Blütenhonig flüssig ;;kbA;RO;;5.28 €;7;;6/500g;;;Honig & Muse
+;20742;Lindenhonig cremig Bioland Deutschland;;kbA;DE;;6.20 €;7;;6/500g;;;Honig & Muse
+;20732;Orangenblütenhonig cremig;;kbA;ES;;6.46 €;7;;6/500g;;;Honig & Muse
+;20739;Rapshonig cremig Bioland Deutschland;;kbA;DE;;6.20 €;7;;6/500g;;;Honig & Muse
+;20733;Waldhonig;;kbA;IT;;7.79 €;7;;6/500g;;;Honig & Muse
+;21214;Cashewmus;;kbA;DE;;5.80 €;7;;6/250g;;;Honig & Muse
+;21201;Erdnussmus fein 100% Erdnuss;;kbA;DE;;2.73 €;7;;6/250g;;;Honig & Muse
+;21205;Erdnussmus grob mit Salz ;;kbA;DE;;2.73 €;7;;6/250g;;;Honig & Muse
+;21202;Mandelmus weiß;;kbA;DE;;6.70 €;7;;6/250g;;;Honig & Muse
+;21203;Sesammus (Tahin) 100%;;kbA;DE;;2.72 €;7;;6/250g;;;Honig & Muse
+;21206;Mandelmus braun;;kbA;DE;;6.16 €;7;;6/250g;;;Honig & Muse
+;21082;Ananasstücke in Dose Füllmenge 3 kg, ATG 1,65kg ;;kbA;LK;;13.76 €;7;;1 Dose;;;Konserven
+;21053;Apfelmark Dose 4,3kg ;;kbA;DE;;10.54 €;7;;1 Dose;;;Konserven
+;21235;Apfelmus gesüßt Dose 4,2kg;;kbA;DE;;12.58 €;7;;1 Dose;;;Konserven
+;21075;Dunstapfelstücke ATG 4,050 kg ;;kbA;IT/DE;;13.35 €;7;;1 Dose;;;Konserven
+;23255;Aprikosenhälften in der Dose  ATG 1,6kg ;;kbA;TR;;15.14 €;7;;1 Dose;;;Konserven
+;21021;Birnenhälften Dose ATG 2,3 kg ;;kbA;IT/DE;;29.35 €;7;;1 Dose;;;Konserven
+;21010;Gewürzgurken 9,7 l, ATG 5,6kg;;kbA;DE;;20.65 €;7;;1 Dose;;;Konserven
+;21006;Kirschen entsteint in der Dose 4,1kg ATG 2,5 kg ;;kbA;TR/HU;;17.34 €;7;;1 Dose;;;Konserven
+;21344;Kokosmilch 1 Dose 2,88 kg;;kbA;LK;;13.56 €;7;;1 Dose;;;Konserven
+;21273;Mandarin-Orangen ATG: 1,68kg;;kbA;CN;;16.81 €;7;;1 Dose;;;Konserven
+;20674;Mangopüree;;kbA;DE/IN;;16.84 €;7;;1 Dose;;;Konserven
+;21180;Oliven dunkel Scheiben in Lake;;kbA;PO/GR;;10.19 €;7;;10kg/11kg;;;Konserven
+;21055;Oliven dunkel entsteint in Lake;;kbA;GR;;9.82 €;7;;11kg;;;Konserven
+;21001;Oliven dunkel entsteint in Lake Demeter;;kbdA*;GR;;10.88 €;7;;11kg;;;Konserven
+;21179;Oliven grün Scheiben in Lake;;kbA;GR;;11.15 €;7;;11kg;;;Konserven
+;21056;Oliven grün entsteint in Lake;;kbA;GR;;9.61 €;7;;11kg;;;Konserven
+;21261;Peperoniringe grün in Lake ATG: 2,3kg;;kbA;TR;;10.94 €;7;;1 Dose;;;Konserven
+;21290;Peperoni rot ganz in Lake ATG: 1,75kg;;kbA;TR;;12.50 €;7;;1 Dose;;;Konserven
+;21015;Pfirsichhälften in der Dose ATG: 2,5kg;;kbA;IT/DE;;17.71 €;7;;1 Dose;;;Konserven
+;21275;Pflaumenhälften ungesüßt ATG 2,35kg;;kbA;TR/DE;;17.49 €;7;;1 Dose;;;Konserven
+;21060;Tomatenmark 4,5kg Italien;;kbA;IT;;18.64 €;7;;4,5kg;;;Konserven
+;21033;Tomaten geschält 2,5kg Dose, ATG 1,5kg ;;kbA;IT;;4.22 €;7;;1 Dose;;;Konserven
+;21349;Tomaten passiert 2,5kg;;kbA;IT;;4.22 €;7;;1 Dose;;;Konserven
+;21195;Tomatenstücke 2,5kg Dose, ATG 1,5kg ;;kbA;IT;;4.22 €;7;;1 Dose;;;Konserven
+;21002;Apfelmark;;kbA;DE;;1.70 €;7;;12/700g;;;Konserven
+;21003;Apfelmus mit Rohrohrzucker;;kbA;DE;;2.85 €;7;;6/720ml;;;Konserven
+;91342;Kokosmilch Fairtrade 12x400ml ;;kbA;LK;;1.55 €;7;;12/400ml;;;Konserven
+;21221;Tomaten geschält ATG 12x240g;;kbA;IT;;0.94 €;7;;12/400g;;;Konserven
+;21049;Tomaten passiert;;kbA;IT;;1.39 €;7;;12/680g;;;Konserven
+;21220;Tomatenstücke ATG 12x240g;;kbA;IT;;0.94 €;7;;12/400g;;;Konserven
+;22270;Spaghetti Vollkorn;;kbA;IT;;2.64 €;7;;10kg;;;Nudeln & Pasta ohne Ei
+;22213;Lasagneplatten hell;;kbA;IT;;7.40 €;7;;5kg;;;Nudeln & Pasta ohne Ei
+;22263;Farfalle hell;;kbA;IT;;2.79 €;7;;5kg;;;Nudeln & Pasta ohne Ei
+;22249;Penne hell ;;kbA;IT;;2.38 €;7;;10kg;;;Nudeln & Pasta ohne Ei
+;22234;Penne Vollkorn ;;kbA;IT;;2.38 €;7;;10kg;;;Nudeln & Pasta ohne Ei
+;22272;Penne Dinkel hell ;;kbA;IT;;4.16 €;7;;10kg;;;Nudeln & Pasta ohne Ei
+;22271;Penne Dinkel Vollkorn ;;kbA;IT;;3.85 €;7;;10kg;;;Nudeln & Pasta ohne Ei
+;22233;Spaghetti hell;;kbA;IT;;2.38 €;7;;10kg;;;Nudeln & Pasta ohne Ei
+;22237;Spiralen hell;;kbA;IT;;2.64 €;7;;10kg;;;Nudeln & Pasta ohne Ei
+;22236;Spiralen Vollkorn;;kbA;IT;;2.38 €;7;;10kg;;;Nudeln & Pasta ohne Ei
+;23513;Risoni Nudeln in Reisform;;kbA;IT;;3.16 €;7;;10kg;;;Nudeln & Pasta ohne Ei
+;22265;Multigrain Strozzapreti glutenfrei ;;kbA;IT;;8.58 €;7;;5kg;;;Nudeln & Pasta ohne Ei
+;22266;Reis Penne Vollkorn glutenfrei ;;kbA;IT;;8.42 €;7;;5kg;;;Nudeln & Pasta ohne Ei
+;22267;Mais Penne glutenfrei ;;kbA;IT;;6.24 €;7;;5kg;;;Nudeln & Pasta ohne Ei
+;22268;Kichererbsen Fusilli glutenfrei;;kbA;IT;;9.01 €;7;;5kg;;;Nudeln & Pasta ohne Ei
+;22269;Rote Linsen Strozzapreti glutenfrei;;kbA;IT;;9.11 €;7;;5kg;;;Nudeln & Pasta ohne Ei
+;22273;Muschel Nudeln hell (Gomiti);;kbA;IT;;2.81 €;7;;10kg;;;Nudeln & Pasta ohne Ei
+;22216;Lasagneplatten hell;;kbA;IT;;3.80 €;7;;6/500g;;;Nudeln & Pasta ohne Ei
+;22211;Penne hell ;;kbA;IT;;1.57 €;7;;12/500g;;;Nudeln & Pasta ohne Ei
+;22205;Penne Vollkorn;;kbA;IT;;1.57 €;7;;12/500g;;;Nudeln & Pasta ohne Ei
+;22217;Spaghetti hell;;kbA;IT;;1.57 €;7;;12/500g;;;Nudeln & Pasta ohne Ei
+;22208;Spiralen Vollkorn;;kbA;IT;;1.57 €;7;;12/500g;;;Nudeln & Pasta ohne Ei
+;22212;Spiralen hell;;kbA;IT;;1.57 €;7;;12/500g;;;Nudeln & Pasta ohne Ei
+;22251;Dinkel-Spiralen hell;;kbA;IT;;1.53 €;7;;6/250g;;;Nudeln & Pasta ohne Ei
+;22259;Rote Linsen Strozzapreti;;kbA;IT;;2.65 €;7;;8/250g;;;Nudeln & Pasta ohne Ei
+;20653;Backpulver;;kbA;DE;;5.95 €;7;;25kg;;;Back- & Kochzutaten
+;20338;Gerstenmalzpulver ;;kbA;NL;;7.04 €;7;;25kg;;;Back- & Kochzutaten
+;20773;Callets ca. 18 mm Zartbitter-Kuvertüre;;kbA;BE;;11.85 €;7;;20kg;;;Back- & Kochzutaten
+;20774;Callets ca. 10 mm Vollmilch-Kuvertüre;;kbA;BE;;12.19 €;7;;20kg;;;Back- & Kochzutaten
+;20775;Callets ca. 10 mm weiße Schokolade Fairtrade;;kbA;BE;;13.51 €;7;;10kg;;;Back- & Kochzutaten
+;20345;Carobpulver;;kbA;IT;;3.65 €;7;;25kg;;;Back- & Kochzutaten
+;20609;Dekorpuder Deffland ;;kbA;DE;;9.68 €;7;;12,5kg;;;Back- & Kochzutaten
+;20358;Eigelbpulver;;kbA;NL;;32.74 €;7;;12,5kg;;;Back- & Kochzutaten
+;20357;Eiweißpulver;;kbA;NL;;47.99 €;7;;12,5kg;;;Back- & Kochzutaten
+;20356;Sojamehl geröstet;;kbA;AT;;2.80 €;7;;25kg;;;Back- & Kochzutaten
+;20537;Guarkernmehl ;;kbA;IN;;10.49 €;7;;25kg;;;Back- & Kochzutaten
+;40317;Kakaopulver 10-12 %;;kbA;NL;;6.24 €;7;;5kg;;;Back- & Kochzutaten
+;20304;Kakaopulver 10-12 % nicht alkalisiert;;kbA;NL;;4.92 €;7;;25kg;;;Back- & Kochzutaten
+;20663;Kakaopulver alkalisiert 20-22% Fett;;kbA;IT;;7.25 €;7;;25kg;;;Back- & Kochzutaten
+;23277;Kakao Nibs ungeröstet;;kbA;PE/GB/NF;;10.58 €;7;;25kg;;;Back- & Kochzutaten
+;20378;Kartoffelstärke (Mehl) glutenfrei;;kbA;DE;;4.12 €;7;;25kg;;;Back- & Kochzutaten
+;21099;Kartoffelpüree instant ;;kbA;AT/DE;;4.85 €;7;;8kg;;;Back- & Kochzutaten
+;21100;Kartoffelpüree instant;;kbA;AT/DE;;5.12 €;7;;20kg ;;;Back- & Kochzutaten
+;20627;Kastanienmehl glutenfrei;;kbA;IT;;9.38 €;7;;20kg;;;Back- & Kochzutaten
+;20302;Kuvertüre Zartbitter dunkel Platten ;;kbA;DE;;10.90 €;7;;2,5kg;;;Back- & Kochzutaten
+;20331;Kuvertüre Drops Zartbitter 3-5mm;;kbA;DE;;7.93 €;7;;10kg;;;Back- & Kochzutaten
+;20303;Kuvertüre weiß Platten ;;kbA;DE;;10.48 €;7;;2,5kg;;;Back- & Kochzutaten
+;20301;Kuvertüre Vollmilch hell Platten ;;kbA;DE;;10.37 €;7;;2,5kg;;;Back- & Kochzutaten
+;42661;Maisstärke;;kbA;AT;;3.69 €;7;;5kg;;;Back- & Kochzutaten
+;20312;Maisstärke weiß glutenfrei;;kbA;AT;;2.32 €;7;;25kg;;;Back- & Kochzutaten
+;20321;Marzipan mit Honig;;kbA;DE;;16.20 €;7;;12,5kg;;;Back- & Kochzutaten
+;20330;Marzipan mit Rohrohrzucker;;kbA;DE;;13.67 €;7;;12,5kg;;;Back- & Kochzutaten
+;20308;Milchpulver mind. 26% Fett;;kbA;DK;;7.98 €;7;;25kg;;;Back- & Kochzutaten
+;20315;Nussnougatstangen mit Rohrohrzucker;;kbA;DE;;16.52 €;7;;2,5kg;;;Back- & Kochzutaten
+;20318;Orangeat gewürfelt 6mm ;;kbA;IT;;7.40 €;7;;10kg;;;Back- & Kochzutaten
+;21323;Olivenöl nativ extra Portugal ;;kbA;PT;;9.91 €;7;;5L;;;Back- & Kochzutaten
+;21360;Olivenöl nativ extra;;kbA;TN/ES;;8.75 €;7;;5L;;;Back- & Kochzutaten
+;21357;Olivenöl nativ extra Demeter;;kbdA*;GR;;13.81 €;7;;5L;;;Back- & Kochzutaten
+;21394;Olivenöl nativ extra Demeter Spanien Metallkanister;;kbdA*;ES;;10.90 €;7;;3L;;;Back- & Kochzutaten
+;21352;Rapsöl desodoriert im Kanister ;;kbA;FR;;6.04 €;7;;5L;;;Back- & Kochzutaten
+;20313;Puddingpulver Schokolade;;kbA;DE;;4.92 €;7;;5kg;;;Back- & Kochzutaten
+;20314;Puddingpulver Vanille;;kbA;DE;;15.88 €;7;;5kg;;;Back- & Kochzutaten
+;21326;Rapsöl nativ Kanister;;kbA;FR;;5.93 €;7;;5L;;;Back- & Kochzutaten
+;12243;Butterreinfett;;kbA;DE;;13.52 €;7;;10kg;;;Back- & Kochzutaten
+;12248;Butter im Block;;kbA;DE;;11.18 €;7;;10kg;;;Back- & Kochzutaten
+;12249;Butter in Platten;;kbA;NL;;12.24 €;7;;10kg;;;Back- & Kochzutaten
+;12246;Butter im Block süß;;kbA;DE;;11.33 €;7;;10kg;;;Back- & Kochzutaten
+;12222;Backmargarine Stangen;;kbA;DE;;3.69 €;7;;10kg;;;Back- & Kochzutaten
+;12220;Zieh-Margarine Platten;;kbA;DE;;7.39 €;7;;10kg;;;Back- & Kochzutaten
+;20390;Kakaobutter desodoriert;;kbA;DE;;12.03 €;7;;10kg;;;Back- & Kochzutaten
+;12215;Palmfett;;kbA;DE;;3.44 €;7;;20kg;;;Back- & Kochzutaten
+;23279;Kokosfett desodoriert;;kbA;DE;;5.82 €;7;;25kg;;;Back- & Kochzutaten
+;20624;Schokostäbchen Zartbitter;;kbA;BE;;10.58 €;7;;24kg;;;Back- & Kochzutaten
+;21331;Sonnenblumenöl desodoriert linoleic ;;kbA;FR;;7.19 €;7;;5L;;;Back- & Kochzutaten
+;21335;Sonnenblumenöl desodoriert HIGHOLEIC ;;kbA;FR;;7.19 €;7;;10L;;;Back- & Kochzutaten
+;21318;Sonnenblumenöl kaltgepresst;;kbA;FR;;7.19 €;7;;5L;;;Back- & Kochzutaten
+;12231;Vitax harzfreies Trennöl 100%;;kbA;DE;;5.28 €;7;;10L;;;Back- & Kochzutaten
+;22810;Shoyu Sojasoße (Weizen);;kbA;NL;;6.94 €;7;;5L;;;Back- & Kochzutaten
+;21097;Sojabrocken fein ;;kbA;AT;;6.48 €;7;;10kg;;;Back- & Kochzutaten
+;21164;Sojabrocken grob;;kbA;AT;;6.48 €;7;;10kg;;;Back- & Kochzutaten
+;23368;Sojaflocken ;;kbA;AT;;3.16 €;7;;25kg;;;Back- & Kochzutaten
+;20538;Sojagranulat;;kbA;AT;;2.07 €;7;;25kg;;;Back- & Kochzutaten
+;40716;Vanillezucker;;kbA;DE;;40.99 €;7;;1kg;;;Back- & Kochzutaten
+;20334;Weizengluten;;kbA;CN;;6.20 €;7;;25kg;;;Back- & Kochzutaten
+;20336;Weizenstärke;;kbA;CZ;;1.93 €;7;;25kg;;;Back- & Kochzutaten
+;20319;Zitronat gewürfelt 6mm;;kbA;IT;;8.10 €;7;;10kg;;;Back- & Kochzutaten
+;23600;Pfeilwurzelstärke;;kbA;IN;;5.09 €;7;;25kg;;;Back- & Kochzutaten
+;23264;Ökoback Dinkel 3% Bioland;;kbA;DE;;7.40 €;7;;25kg;;;Back- & Kochzutaten
+;20317;Ökoback plus Bioland ;;kbA;DE;;5.81 €;7;;25kg;;;Back- & Kochzutaten
+;40798;Agar-Agar;;kbA;ID;;53.79 €;7;;1kg;;;Back- & Kochzutaten
+;40790;Backpulver;;kbA;DE;;7.79 €;7;;1kg;;;Back- & Kochzutaten
+;20750;"Hefe ""Meister Backhefe"" trocken glutenfrei BioVegan ";;kbA;DE;;0.73 €;7;;25/7g;;;Back- & Kochzutaten
+;40320;Kakaopulver;;kbA;DO;;2.09 €;7;;12/150g;;;Back- & Kochzutaten
+;40874;Kakao Nibs ungeröstet;;kbA;PE;;11.59 €;7;;1kg;;;Back- & Kochzutaten
+;21337;Kokosöl nativ im Schraubglas;;kbA;PH;;10.30 €;7;;6/1000ml;;;Back- & Kochzutaten
+;40323;Kuvertüre Drops Zartbitter 5mm;;kbA;DE;;2.27 €;7;;6/100g;;;Back- & Kochzutaten
+;21305;Kürbiskernöl Premium;;kbA;DE/AT;;9.98 €;7;;4/250ml;;;Back- & Kochzutaten
+;21321;Leinöl;;kbA;IN;;6.56 €;7;;6/250ml;;;Back- & Kochzutaten
+;40324;Maisstärke weiß;;kbA;AT;;3.69 €;7;;6/1000g;;;Back- & Kochzutaten
+;21308;Olivenöl nativ extra;;kbA;ES;;6.04 €;7;;6/500ml;;;Back- & Kochzutaten
+;21314;Schwarzkümmelöl kaltgepreßt;;kbA;EG;;9.94 €;7;;6/100ml;;;Back- & Kochzutaten
+;40352;Tortenguss rot;;kbA;DE;;34.99 €;7;;1kg;;;Back- & Kochzutaten
+;40351;Tortenguss klar;;kbA;DE;;34.09 €;7;;1kg;;;Back- & Kochzutaten
+;40772;Vanillezucker;;kbA;DE;;5.69 €;7;;6/100g;;;Back- & Kochzutaten
+;20767;Nonpareilles bunt gemischt, mit Crispy Vollkornkern;;kbA;DE;;38.58 €;7;;1kg;;;Back- & Kochzutaten
+;48074;Pfeilwurzelstärke;;kbA;IN;;6.89 €;7;;1kg;;;Back- & Kochzutaten
+;20751;Backhefe trocken Vegan;;kbA;DE;;36.35 €;7;;0,5kg;;;Back- & Kochzutaten
+;21039;Tofu im Glas Füllmenge 6x330g, ATG 6x130g ;;kbA;DE;;1.55 €;7;;6x130g ;;;Back- & Kochzutaten
+;42010;Agavendicksaft im Drahtbügelglas;;kbA;MX;;5.89 €;7;;2kg;;;Süßungsmittel
+;41217;Agavendicksaft gelb;;kbA;MX;;5.89 €;7;;5kg;;;Süßungsmittel
+;22011;Agavendicksaft gelb;;kbA;MX;;4.61 €;7;;25kg;;;Süßungsmittel
+;22118;Agavendicksaft Rohkost ;;kbA;MX;;5.24 €;7;;25kg;;;Süßungsmittel
+;22012;Ahornsirup Grad C (4L/5,28kg);;kbA;CA;;19.83 €;7;;4L;;;Süßungsmittel
+;22008;Gerstenmalzsirup;;kbA;BE;;4.26 €;7;;25kg;;;Süßungsmittel
+;22056;Rübenzucker;;kbA;DE/LT;;2.63 €;7;;25kg;;;Süßungsmittel
+;25017;Rübenzucker Demeter;;kbdA*;CH/DE;;3.38 €;7;;25kg;;;Süßungsmittel
+;20327;Puderzucker (aus Rohrohrzucker);;kbA;NL;;3.16 €;7;;25kg;;;Süßungsmittel
+;22005;Rohrohrzucker Demerara;;kbA;PY;;2.85 €;7;;25kg;;;Süßungsmittel
+;22100;Rohrohrzucker fein;;kbA;CO;;1.99 €;7;;25kg;;;Süßungsmittel
+;22046;Rohrohrzucker Fairtrade ;;kbA;PY;;2.33 €;7;;25kg;;;Süßungsmittel
+;22009;Zuckerrübensirup;;kbA;DE;;3.57 €;7;;10kg;;;Süßungsmittel
+;22004;Rohrzucker weiß;;kbA;IN;;2.48 €;7;;25kg;;;Süßungsmittel
+;22010;Vollrohrzucker;;kbA;EC/PE;;3.16 €;7;;25kg;;;Süßungsmittel
+;23429;Gerstenmalzextrakt Demeter ;;kbdA*;DE;;6.86 €;7;;10kg;;;Süßungsmittel
+;23342;Rohrohrzucker hell Demeter;;kbdA*;PY;;2.96 €;7;;25kg;;;Süßungsmittel
+;25007;Dattelzucker;;kbA;TN;;6.89 €;7;;10kg;;;Süßungsmittel
+;22013;Kokosblütenzucker;;kbA;ID;;6.99 €;7;;20kg;;;Süßungsmittel
+;42019;Agavendicksaft;;kbA;MX;;3.39 €;7;;12/450g;;;Süßungsmittel
+;22001;Ahornsirup No.1 medium B.;;kbA;CA;;4.97 €;7;;12/250ml;;;Süßungsmittel
+;42007;Rohrohrzucker;;kbA;CO;;3.09 €;7;;6/1000g;;;Süßungsmittel
+;42008;Vollrohrzucker;;kbA;EC/PE;;2.59 €;7;;6/500g;;;Süßungsmittel
+;48076;Dattelzucker;;kbA;TN;;3.09 €;7;;6/250g;;;Süßungsmittel
+;40871;Kokosblütenzucker;;kbA;ID;;4.89 €;7;;6/500g;;;Süßungsmittel
+;20116;Zuckenrrübensirup;;kbA;DE;;2.59 €;7;;12x450g;;;Süßungsmittel
+;21057;Balsamico Essig dunkel;;kbA;IT;;5.18 €;7;;5L;;;Würzmittel
+;21058;Condimento Bianco Weißweinessig und Traubenmost;;kbA;IT;;5.18 €;7;;5L;;;Würzmittel
+;21061;Rotweinessig;;kbA;DE;;2.88 €;7;;5kg;;;Würzmittel
+;21059;Weißweinessig 6% Säure;;kbA;DE;;2.85 €;7;;5kg;;;Würzmittel
+;20544;Gemüsebouillon -hefefrei-;;kbA;DE;;10.13 €;7;;12,5kg;;;Würzmittel
+;41999;Gemüsebrühe rein pflanzlich -hefefrei-;;kbA;DE;;11.49 €;7;;4kg;;;Würzmittel
+;23369;Gemüsebrühe rein pflanzlich mit Hefeextrakt ;;kbA;DE;;9.58 €;7;;25kg;;;Würzmittel
+;22809;Gomasio;;kbA;DE;;8.46 €;7;;30kg;;;Würzmittel
+;48052;Gomasio;;kbA;DE;;9.19 €;7;;5kg;;;Würzmittel
+;23427;Malz-Hefeflocken;;kbA;DE;;18.58 €;7;;10kg;;;Würzmittel
+;22835;Sojasoße Tamari (ohne Weizen);;kbA;NL;;6.99 €;7;;5L;;;Würzmittel
+;42810;Gemüsebrühe mit Hefeextrakt;;kbA;DE;;3.29 €;7;;12/200g;;;Würzmittel
+;22839;Shoyu Sojasoße (Weizen);;kbA;NL;;4.89 €;7;;6/500ml;;;Würzmittel
+;21711;Meersalz naturrein fein;;Konventionell;IT;;0.79 €;7;;25kg;;;Würzmittel
+;21704;Meersalz fein (Atlantik) ;;Konventionell;DE;;0.94 €;7;;25kg;;;Würzmittel
+;21717;Meersalz naturrein grob 2-4mm ;;Konventionell;IT/DE;;1.15 €;7;;25kg;;;Würzmittel
+;21730;Meersalz naturrein grob Nr. 2 ;;Konventionell;GR;;1.26 €;7;;25kg;;;Würzmittel
+;21718;Steinsalz;;Konventionell;DE;;1.04 €;7;;25kg;;;Würzmittel
+;21703;Steinsalz mit Bio-Kräutern;;Konventionell;DE;;6.81 €;7;;10kg;;;Würzmittel
+;21739;Kristallsalz grob rosa aus Pakistan;;Konventionell;PK;;1.57 €;7;;25kg;;;Würzmittel
+;41706;Meersalz naturrein fein;;Konventionell;IT;;2.59 €;7;;6x1000g;;;Würzmittel
+;41680;Meersalz mit Bio-Chili für die Mühle (Chilisalz) ;;Konventionell;DE;;6.02 €;7;;5kg;;;Würzmittel
+;41681;Meersalz mit Bio-Chili für die Mühle (Chilisalz) ;;Konventionell;DE;;3.48 €;7;;6x400g;;;Würzmittel
+;40696;Anis gemahlen;;kbA;TR/EG;;16.39 €;7;;1kg;;;Gewürze & Kräuter
+;23384;Anis gemahlen;;kbA;TR/EG;;13.70 €;7;;25kg;;;Gewürze & Kräuter
+;40601;Anis ganz   ;;kbA;TR/EG;;15.39 €;7;;1kg;;;Gewürze & Kräuter
+;23204;Anis ganz   ;;kbA;TR/EG;;13.49 €;7;;25kg;;;Gewürze & Kräuter
+;23324;Basilikum gerebelt 2-5mm;;kbA;EG;;10.54 €;7;;10kg/18kg;;;Gewürze & Kräuter
+;40603;Basilikum gerebelt;;kbA;EG;;12.39 €;7;;1kg;;;Gewürze & Kräuter
+;40733;Bärlauchblätter geschnitten;;kbA;XS;;35.59 €;7;;1kg;;;Gewürze & Kräuter
+;23401;Bärlauchblätter geschnitten;;kbA;XS;;33.70 €;7;;15kg;;;Gewürze & Kräuter
+;40735;Bockshornklee gemahlen;;kbA;IN/DE;;11.19 €;7;;1kg;;;Gewürze & Kräuter
+;23413;Bockshornklee gemahlen;;kbA;DE;;9.38 €;7;;25kg;;;Gewürze & Kräuter
+;23717;Brotgewürz;;kbA;DE;;8.01 €;7;;24kg/25kg;;;Gewürze & Kräuter
+;28011;Fenchel-Anis-Kümmel-Tee;;kbA;DE;;6.69 €;7;;20kg/19,6kg;;;Gewürze & Kräuter
+;40605;Bohnenkraut gerebelt;;kbA;AL;;21.09 €;7;;1kg;;;Gewürze & Kräuter
+;23416;Bohnenkraut gerebelt;;kbA;AL;;19.29 €;7;;10kg;;;Gewürze & Kräuter
+;40717;Brotgewürz;;kbA;DE;;9.16 €;7;;1kg;;;Gewürze & Kräuter
+;40607;Currypulver;;kbA;DE;;10.59 €;7;;1kg;;;Gewürze & Kräuter
+;40672;Chilies gemahlen;;kbA;CN;;21.29 €;7;;1kg;;;Gewürze & Kräuter
+;23238;Chilies gemahlen;;kbA;CN;;19.45 €;7;;15kg;;;Gewürze & Kräuter
+;20147;Chili crushed mit Saat;;kbA;CN;;19.86 €;7;;1kg;;;Gewürze & Kräuter
+;23496;Chili crushed mit Saat;;kbA;CN;;17.91 €;7;;20kg;;;Gewürze & Kräuter
+;43011;Fenchel-Anis-Kümmel-Tee;;kbA;DE;;8.59 €;7;;1kg/0,7kg;;;Gewürze & Kräuter
+;40697;Fenchel gemahlen;;kbA;EG;;11.89 €;7;;1kg;;;Gewürze & Kräuter
+;43003;Fenchel ganz ;;kbA;EG;;8.89 €;7;;1kg;;;Gewürze & Kräuter
+;23203;Fenchel ganz ;;kbA;EG;;6.99 €;7;;25kg;;;Gewürze & Kräuter
+;40660;Gelbsenfsaat ganz;;kbA;IN;;8.49 €;7;;1kg;;;Gewürze & Kräuter
+;23205;Gelbsenfsaat ganz;;kbA;IN;;6.68 €;7;;25kg;;;Gewürze & Kräuter
+;23559;Ingwerpulver;;kbA;IN;;11.50 €;7;;25kg;;;Gewürze & Kräuter
+;40611;Ingwerpulver;;kbA;IN;;13.39 €;7;;1kg;;;Gewürze & Kräuter
+;40671;Kardamom gemahlen mit Schale;;kbA;GT;;64.39 €;7;;1kg;;;Gewürze & Kräuter
+;23376;Kardamom gemahlen mit Schale;;kbA;GT;;62.54 €;7;;25kg;;;Gewürze & Kräuter
+;40668;Kardamom ganz ohne Schale;;kbA;GT;;84.99 €;7;;1kg;;;Gewürze & Kräuter
+;40694;Knoblauch gemahlen;;kbA;CN;;14.99 €;7;;1kg;;;Gewürze & Kräuter
+;23387;Knoblauch gemahlen;;kbA;CN;;13.19 €;7;;25kg;;;Gewürze & Kräuter
+;40656;Koriander gemahlen;;kbA;CZ;;11.29 €;7;;1kg;;;Gewürze & Kräuter
+;40613;Koriander ganz;;kbA;CZ/LT;;9.99 €;7;;1kg;;;Gewürze & Kräuter
+;23208;Koriander ganz;;kbA;CZ/IT;;8.10 €;7;;25kg;;;Gewürze & Kräuter
+;40680;Kräuter der Provence ;;kbA;DE;;20.87 €;7;;1kg;;;Gewürze & Kräuter
+;41679;Pizzakräuter;;kba;DE;;22.20 €;7;;20kg;;;Gewürze & Kräuter
+;40679;Pizzakräuter;;kbA;DE;;24.11 €;7;;1kg;;;Gewürze & Kräuter
+;23320;Kurkuma gemahlen ;;kbA;IN;;6.61 €;7;;25kg;;;Gewürze & Kräuter
+;23636;Kurkuma gemahlen Premium mind. 5% Curcumin;;kbA;IN;;8.42 €;7;;25kg;;;Gewürze & Kräuter
+;23320;Kurkuma gemahlen;;kbA;IN/DE;;6.61 €;7;;25kg;;;Gewürze & Kräuter
+;40737;Kurkuma gemahlen;;kbA;IN;;8.49 €;7;;1kg;;;Gewürze & Kräuter
+;40712;Kümmel gemahlen;;kbA;EG;;10.89 €;7;;1kg;;;Gewürze & Kräuter
+;40644;Kümmel ganz;;kbA;LT;;7.69 €;7;;1kg;;;Gewürze & Kräuter
+;23209;Kümmel ganz;;kbA;LT;;5.87 €;7;;25kg;;;Gewürze & Kräuter
+;40138;Kreuzkümmel (Cumin) gemahlen;;kbA;TR;;24.09 €;7;;5kg;;;Gewürze & Kräuter
+;40698;Kreuzkümmel (Cumin) gemahlen;;kbA;TR;;25.19 €;7;;1kg;;;Gewürze & Kräuter
+;23239;Kreuzkümmel (Cumin) gemahlen;;kbA;TR;;23.30 €;7;;25kg;;;Gewürze & Kräuter
+;20758;Kreuzkümmel (Cumin) ganz;;kbA;TR;;21.18 €;7;;25kg;;;Gewürze & Kräuter
+;40759;Schwarzkümmel ganz;;kbA;EG;;8.89 €;7;;1kg;;;Gewürze & Kräuter
+;23220;Schwarzkümmel ganz;;kbA;EG;;6.99 €;7;;25kg;;;Gewürze & Kräuter
+;40650;Lebkuchengewürz;;kbA;DE;;28.39 €;7;;1kg;;;Gewürze & Kräuter
+;23386;Lebkuchengewürz;;kbA;DE;;26.50 €;7;;20kg;;;Gewürze & Kräuter
+;40617;Majoran gerebelt ;;kbA;EG/DE;;14.39 €;7;;1kg;;;Gewürze & Kräuter
+;23417;Majoran gerebelt ;;kbA;DE;;12.50 €;7;;10kg;;;Gewürze & Kräuter
+;40621;Muskatnuss ganz;;kbA;ID;;32.49 €;7;;1kg;;;Gewürze & Kräuter
+;23453;Muskatnuss ganz;;kbA;ID;;30.68 €;7;;25kg;;;Gewürze & Kräuter
+;23489;Muskat gemahlen;;kbA;ID;;39.53 €;7;;25kg;;;Gewürze & Kräuter
+;40673;Muskat gemahlen;;kbA;ID/LK;;41.39 €;7;;1kg;;;Gewürze & Kräuter
+;40623;Nelken ganz ;;kbA;LK;;21.89 €;7;;1kg;;;Gewürze & Kräuter
+;23410;Nelken ganz ;;kbA;LK;;20.03 €;7;;20kg;;;Gewürze & Kräuter
+;40762;Nelken gemahlen;;kbA;LK;;21.89 €;7;;1kg;;;Gewürze & Kräuter
+;23398;Nelken gemahlen;;kbA;LK;;20.03 €;7;;25kg;;;Gewürze & Kräuter
+;40627;Petersilie gerebelt;;kbA;DE;;20.19 €;7;;1kg;;;Gewürze & Kräuter
+;23388;Petersilie gerebelt;;kbA;DE;;18.33 €;7;;10kg;;;Gewürze & Kräuter
+;40631;Pfeffer schwarz gemahlen;;kbA;LK;;16.39 €;7;;1kg;;;Gewürze & Kräuter
+;23415;Pfeffer schwarz gemahlen;;kbA;DE;;14.53 €;7;;25kg;;;Gewürze & Kräuter
+;40124;Pfeffer schwarz ganz ;;kbA;LK;;16.49 €;7;;5kg;;;Gewürze & Kräuter
+;40629;Pfeffer schwarz ganz ;;kbA;LK;;17.59 €;7;;1kg;;;Gewürze & Kräuter
+;40643;Paprikapulver scharf ;;kbA;ES;;25.69 €;7;;1kg;;;Gewürze & Kräuter
+;23377;Paprikapulver scharf ;;kbA;ES;;23.85 €;7;;25kg;;;Gewürze & Kräuter
+;23635;Pfeffer weiß ganz ;;kbA;LK;;24.27 €;7;;25kg;;;Gewürze & Kräuter
+;40139;Paprikapulver edelsüß;;kbA;ES;;19.99 €;7;;5kg;;;Gewürze & Kräuter
+;40659;Paprikapulver edelsüß;;kbA;ES;;21.09 €;7;;1kg;;;Gewürze & Kräuter
+;40662;Pfeffer weiß gemahlen;;kbA;IN/DE;;24.89 €;7;;1kg;;;Gewürze & Kräuter
+;40661;Pfeffer weiß ganz ;;kbA;IN/DE;;26.09 €;7;;1kg;;;Gewürze & Kräuter
+;40633;Piment gemahlen;;kbA;DE;;20.29 €;7;;1kg;;;Gewürze & Kräuter
+;23413;Piment gemahlen;;kbA;DE;;9.38 €;7;;25kg;;;Gewürze & Kräuter
+;20757;Rosmarin geschnitten 2-4mm;;kbA;MA;;10.60 €;7;;25kg;;;Gewürze & Kräuter
+;40635;Rosmarin geschnitten ;;kbA;MA;;12.49 €;7;;1kg;;;Gewürze & Kräuter
+;40738;Stollengewürz;;kbA;DE;;31.49 €;7;;1kg;;;Gewürze & Kräuter
+;23394;Stollengewürz;;kbA;DE;;29.65 €;7;;20kg;;;Gewürze & Kräuter
+;40748;Spekulatiusgewürz;;kbA;DE;;20.69 €;7;;1kg;;;Gewürze & Kräuter
+;23224;Senfsaat braun ;;kbA;IN;;4.22 €;7;;25 kg;;;Gewürze & Kräuter
+;40637;Thymian gerebelt;;kbA;MA;;13.39 €;7;;1kg;;;Gewürze & Kräuter
+;40688;Vanille gemahlen;;kbA;PG;;452.39 €;7;;1kg;;;Gewürze & Kräuter
+;23409;Vanille gemahlen;;kbA;PG;;450.50 €;7;;25kg;;;Gewürze & Kräuter
+;40742;Vanillestangen (13-15cm);;kbA;PG;;632.59 €;7;;1kg;;;Gewürze & Kräuter
+;48045;Vanillestangen Bourbon;;kbA;MDG;;567.10 €;7;;1kg;;;Gewürze & Kräuter
+;48046;Vanille Bourbon gemahlen;;kbA;MDG;;558.39 €;7;;1kg;;;Gewürze & Kräuter
+;40670;Wacholderbeeren;;kbA;MK;;16.90 €;7;;1kg;;;Gewürze & Kräuter
+;40141;Zimt gemahlen Ceylon;;kbA;LK;;13.09 €;7;;5kg;;;Gewürze & Kräuter
+;20776;Zimt gemahlen Cassia;;kbA;ID;;9.63 €;7;;25kg;;;Gewürze & Kräuter
+;40640;Zimt gemahlen Cassia;;kbA;ID;;11.49 €;7;;1kg;;;Gewürze & Kräuter
+;40663;Zimtstangen (8-10cm, Ceylon);;kbA;LK;;37.30 €;7;;1kg;;;Gewürze & Kräuter
+;40648;Zwiebeln knackig getrocknet ;;kbA;EG;;11.89 €;7;;1kg;;;Gewürze & Kräuter
+;40782;Zwiebeln gemahlen;;kbA;EG;;12.66 €;7;;1kg;;;Gewürze & Kräuter
+;43077;Bockshornklee ganz;;kbA;DE;;10.33 €;7;;1kg;;;Gewürze & Kräuter
+;20754;Dillspitzen;;kbA;HU;;27.08 €;7;;12kg;;;Gewürze & Kräuter
+;40625;Oregano gerebelt;;kbA;TR;;18.59 €;7;;1kg;;;Gewürze & Kräuter
+;23328;Oregano gerebelt 2-10 mm;;kbA;TR;;16.74 €;7;;10kg;;;Gewürze & Kräuter
+;23450;Karottengranulat;;kbA;CN;;10.27 €;7;;25kg;;;Gewürze & Kräuter
+;40764;Schabzigerklee gemahlen;;kbA;DE;;32.39 €;7;;1kg;;;Gewürze & Kräuter
+;23397;Schabzigerklee gemahlen;;kbA;DE;;30.52 €;7;;25kg;;;Gewürze & Kräuter
+;23403;Kardamomsaat ganz ohne Schale;;kbA;TZ;;83.10 €;7;;20kg;;;Gewürze & Kräuter
+;23325;Lorbeerblätter ;;kbA;TR;;21.09 €;7;;20kg;;;Gewürze & Kräuter
+;40677;Liebstöckel gerebelt;;kbA;DE;;28.29 €;7;;1kg;;;Gewürze & Kräuter
+;23639;Currypulver;;kbA;DE;;8.74 €;7;;25kg;;;Gewürze & Kräuter
+;40699;Kreuzkümmel (Cumin) gemahlen;;kbA;TR;;2.89 €;7;;6/50g;;;Gewürze & Kräuter
+;40684;Vanille gemahlen;;kbA;PG;;15.29 €;7;;6/30g;;;Gewürze & Kräuter
+;40666;Zimtstangen Ceylon;;kbA;LK;;2.85 €;7;;6/8stk;;;Gewürze & Kräuter
+;45839;Vanillestangen;;kbA;PG;;643.90 €;7;;0,1kg;;;Gewürze & Kräuter
+;43017;Assam broken Ostfriesentee;;kbA;IN;;21.09 €;7;;1kg;;;Tee
+;23396;Assam broken Ostfriesentee;;kbA;IN;;19.29 €;7;;20kg;;;Tee
+;23383;Brennnesselblätter geschnitten (Tee) ;;kbA;HU;;19.59 €;7;;5kg/10kg;;;Tee
+;40651;Brennnesseltee;;kbA;HU;;21.39 €;7;;1kg;;;Tee
+;43001;Darjeelingtee FTGFOP1 Schwarztee;;kbA;IN;;21.49 €;7;;1kg;;;Tee
+;23389;Darjeelingtee FTGFOP1 Schwarztee;;kbA;IN;;19.61 €;7;;20kg;;;Tee
+;43020;Earl Grey Tee FOP Schwarztee;;kbA;IN;;17.59 €;7;;1kg;;;Tee
+;23422;Earl Grey Tee FOP Schwarztee;;kbA;IN;;15.75 €;7;;20kg;;;Tee
+;43011;Fenchel-Anis-Kümmel-Tee;;kbA;DE;;8.59 €;7;;1kg;;;Tee
+;43050;Früchtetee Mischung;;kbA;DE;;18.59 €;7;;1kg;;;Tee
+;23406;Früchtetee Mischung;;kbA;DE;;16.74 €;7;;20kg;;;Tee
+;43057;Grüner Tee China Chun Mee;;kbA;CN;;18.29 €;7;;1kg;;;Tee
+;23385;Grüner Tee China Chun Mee;;kbA;CN;;16.48 €;7;;20kg;;;Tee
+;43103;Jasmin-Tee;;kbA;CN;;27.09 €;7;;1kg;;;Tee
+;23431;Jasmin-Tee;;kbA;CN;;25.22 €;7;;10kg;;;Tee
+;43010;Kamillentee;;kbA;HR;;31.69 €;7;;1kg;;;Tee
+;23381;Kamillentee (Kamillenblüten ganz Europa) ;;kbA;HR;;29.84 €;7;;10kg;;;Tee
+;45728;"Kräutertee ""Guten Morgen""mit Mate- und Jasmintee";;kbA;DE;;17.75 €;7;;5kg;;;Tee
+;45727;"Kräutertee ""Guten Morgen""mit Mate- und Jasmintee";;kbA;DE;;22.31 €;7;;1kg;;;Tee
+;43056;Matetee grün;;kbA;BR;;18.69 €;7;;1kg;;;Tee
+;23370;Mateblätter geschnitten grob (Matetee) ;;kbA;BR;;16.81 €;7;;20kg;;;Tee
+;43005;Pfefferminztee Großblatt;;kbA;EG;;22.69 €;7;;1kg;;;Tee
+;23382;Pfefferminzblätter grob geschnitten;;kbA;EG;;20.82 €;7;;7,5kg;;;Tee
+;43061;Rooibostee 1kg;;kbA;ZA;;19.69 €;7;;1kg;;;Tee
+;23200;Rooibuschtee;;kbA;ZA;;17.80 €;7;;17kg;;;Tee
+;43030;Hagebuttenschalen;;kbA;AR;;16.49 €;7;;1kg;;;Tee
+;23402;Hagebuttenschalen;;kbA;AR;;14.62 €;7;;10kg;;;Tee
+;21511;Breakfast Biscuit glutenfrei vegan lose;;kbA;BE;;15.84 €;7;;3kg;;;Naschereien & Snacks
+;23638;Vanilla Biscuits lose glutenfrei;;kbA;BE;;15.84 €;7;;3kg;;;Naschereien & Snacks
+;21947;Bananenchips in weißer Schokolade;;kbA;NL;;10.37 €;7;;4kg;;;Naschereien & Snacks
+;21944;Cola-Flaschen;;kbA;DE;;9.38 €;7;;5kg;;;Naschereien & Snacks
+;21948;Erdnüsse in Vollmilchschokolade ;;kbA;NL;;10.31 €;7;;5kg;;;Naschereien & Snacks
+;22041;Fruchtgummibärchen ohne Gelantine;;kbA;DE;;9.91 €;7;;2,5kg;;;Naschereien & Snacks
+;22043;Fruttini-Mix sauer gez. ohne Gelantine;;kbA;DE;;9.91 €;7;;2,5kg;;;Naschereien & Snacks
+;21939;Gummibärchen;;kbA;FR;;9.91 €;7;;5kg;;;Naschereien & Snacks
+;22042;Joghurt Früchte;;kbA;DE;;11.64 €;7;;3kg;;;Naschereien & Snacks
+;21119;Knabber-Crunchy (Hafer);;kbA;DE;;6.04 €;7;;6kg;;;Naschereien & Snacks
+;21354;Knack- und Fruchtmischung;;kbA;DE;;10.58 €;7;;12,5g;;;Naschereien & Snacks
+;21955;Nuss-Frucht-Mischung schokoliert;;kbA;DE;;9.59 €;7;;10kg;;;Naschereien & Snacks
+;21126;Studentenfutter mit Pekanusskerne;;kbA;DE;;8.95 €;7;;12,5kg;;;Naschereien & Snacks
+;21274;Studentenfutter mit Cranberries u.Pekannusskernen;;kbA;DE;;9.52 €;7;;12,5kg;;;Naschereien & Snacks
+;21949;Sultanas in Zartbitterschokolade ;;kbA;NL;;9.67 €;7;;5kg;;;Naschereien & Snacks
+;27055;Kokos-Datteln - NEU mit Kokosöl! ;;kbA;DE;;7.09 €;7;;5kg;;;Naschereien & Snacks
+;22298;Bananenchips gesalzen ;;kbA;PH;;5.28 €;7;;5kg;;;Naschereien & Snacks
+;22189;Veggie-Hearts - Fruchtgummi mit Maisstärke;;kbA;DE;;9.96 €;7;;5kg ;;;Naschereien & Snacks
+;22190;Veggie-Vine-Gums - Fruchtgummi mit Maisstärke ;;kbA;DE;;9.96 €;7;;5kg ;;;Naschereien & Snacks
+;22191;Veggie-Beeren-Mix sauer-Fruchtgummi mit Maisstärke;;kbA;DE;;9.96 €;7;;5kg ;;;Naschereien & Snacks
+;22192;Veggie-Helix Lakritzschnecken;;kbA;DE;;9.96 €;7;;2,0kg;;;Naschereien & Snacks
+;25091;Espressobohnen schokoliert;;kbA;DE;;25.97 €;7;;20kg;;;Naschereien & Snacks
+;48081;Espressobohnen schokoliert;;kbA;DE;;26.69 €;7;;5kg;;;Naschereien & Snacks
+;21756;Marzipankartoffeln;;kbA;DE;;22.09 €;7;;3kg;;;Naschereien & Snacks
+;21393;Lemon Biscuit glutenfrei lose ;;kbA;BE;;15.84 €;7;;3kg;;;Naschereien & Snacks
+;21511;Breakfast Biscuit glutenfrei vegan lose;;kbA;BE;;15.84 €;7;;3kg;;;Naschereien & Snacks
+;21652;"Belgische Spekulatius ""all season"" glutenfrei lose ";;kbA;BE;;17.35 €;7;;3kg;;;Naschereien & Snacks
+;20835;Pane Picco Sesam-Schwarzkümmel aus Dinkel Demeter 4kg ;;kbdA*;DE;;13.46 €;7;;4kg;;;Naschereien & Snacks
+;20932;Schoko-Haselnuss-Cookies Demeter lose ;;kbdA*;DE;;13.76 €;7;;5,5kg;;;Naschereien & Snacks
+;20849;"Oliven Snacks ""Kräuter der Provence"" aus Dinkel";;kbA;DE;;15.68 €;7;;6,5kg;;;Naschereien & Snacks
+;20850;Cashewkerne Kokos-Curry ;;kbA;AT;;20.19 €;7;;10kg;;;Naschereien & Snacks
+;40219;Cashewkerne Kokos-Curry ;;kbA;AT;;20.97 €;7;;5kg;;;Naschereien & Snacks
+;20859;Mandeln Tomate-Kräuter geröstet;;kbA;AT;;22.57 €;7;;10kg;;;Naschereien & Snacks
+;40220;Mandeln Tomate-Kräuter geröstet;;kbA;AT;;23.36 €;7;;5kg;;;Naschereien & Snacks
+;20936;Kichererbsen würzig geröstet;;kbA;AT;;11.44 €;7;;10kg;;;Naschereien & Snacks
+;40221;Kichererbsen würzig geröstet;;kbA;AT;;12.23 €;7;;5kg;;;Naschereien & Snacks
+;20838;Sojasnack würzig geröstet ;;kbA;AT;;9.06 €;7;;10kg;;;Naschereien & Snacks
+;40222;Sojasnack würzig geröstet ;;kbA;AT;;9.84 €;7;;5kg;;;Naschereien & Snacks
+;20837;Himbeeren in Zartbitterschokolade Fairtrade ;;kbA;AT;;22.73 €;7;;10kg;;;Naschereien & Snacks
+;40223;Himbeeren in Zartbitterschokolade Fairtrade ;;kbA;AT;;23.52 €;7;;5kg;;;Naschereien & Snacks
+;20851;Erdbeeren in Zartbitterschokolade Fairtrade ;;kbA;AT;;22.57 €;7;;10kg;;;Naschereien & Snacks
+;40224;Erdbeeren in Zartbitterschokolade Fairtrade ;;kbA;AT;;23.36 €;7;;5kg;;;Naschereien & Snacks
+;20860;Heidelb., Himb. und Erdb. in drei Schokoladen;Fairtrade;kbA;AT;;22.57 €;7;;10kg;;;Naschereien & Snacks
+;40225;Heidelb., Himb. und Erdb. in drei Schokoladen;Fairtrade;kbA;AT;;23.36 €;7;;5kg;;;Naschereien & Snacks
+;20839;Mandeln geröstet in Zartbitterschokolade vegan;;kbA;AT;;17.64 €;7;;10kg;;;Naschereien & Snacks
+;40226;Mandeln geröstet in Zartbitterschokolade vegan;;kbA;AT;;18.43 €;7;;5kg;;;Naschereien & Snacks
+;20852;Haselnüsse geröstet in Vollmilchschokolade Fairtrade;;kbA;AT;;16.21 €;7;;10kg;;;Naschereien & Snacks
+;40227;Haselnüsse geröstet in Vollmilchschokolade Fairtrade;;kbA;AT;;17.00 €;7;;5kg;;;Naschereien & Snacks
+;20861;Mandeln geröstet in Reis-Zimt-Veganolade Fairtrade;;kbA;AT;;23.57 €;7;;10kg;;;Naschereien & Snacks
+;40228;Mandeln geröstet in Reis-Zimt-Veganolade Fairtrade;;kbA;AT;;24.31 €;7;;5kg;;;Naschereien & Snacks
+;20840;Haselnüsse geröstet in Vollmilch-Lebkuchenschokolade;;kbA;AT;;15.74 €;7;;10kg;;;Naschereien & Snacks
+;40229;Haselnüsse geröstet in Vollmilch-Lebkuchenschokolade;;kbA;AT;;16.69 €;7;;5kg;;;Naschereien & Snacks
+;41948;Erdnüsse in Vollmilchschokolade;;kbA;NL;;1.89 €;7;;6/125g;;;Naschereien & Snacks
+;41923;Fruchtgummibärchen ohne Gelantine;;kbA;DE;;1.89 €;7;;12/125g;;;Naschereien & Snacks
+;41925;Fruttini-Mix sauer gezucket ohne Gelantine;;kbA;DE;;1.89 €;7;;12/125g;;;Naschereien & Snacks
+;41223;Knack- und Fruchtmischung;;kbA;DE;;2.49 €;7;;6/175g;;;Naschereien & Snacks
+;41950;Nuss-Frucht-Mischung schokoliert;;kbA;DE;;1.89 €;7;;6/125g;;;Naschereien & Snacks
+;21909;Lakritzschlangen glutenfrei ;;kbA;NL;;0.95 €;7;;24/50g;;;Naschereien & Snacks
+;21910;Lakritzstangen 100Stk. a 5,5g;;kbA;NL;;13.00 €;7;;1Kt.;;;Naschereien & Snacks
+;21506;Reiswaffeln mit Joghurtschokolade;;kbA;NL;;1.24 €;7;;12/100g;;;Naschereien & Snacks
+;21504;Reiswaffeln mit Zartbitterschokolade;;kbA;NL;;1.24 €;7;;12/100g;;;Naschereien & Snacks
+;48078;Kokos-Datteln;;kbA;DE;;2.09 €;7;;6/200g;;;Naschereien & Snacks
+;45826;Bananenchips gesalzen;;kbA;PH;;1.99 €;7;;6/250g;;;Naschereien & Snacks
+;40284;Amaranth gepufft ;Neuheit, kompostierbarer Beutel;kbA;IN;;1.49 €;7;;6x150g;;;Bode Bio Box
+;41676;Aprikosen ;Neuheit, kompostierbarer Beutel;kbA;TR/UZ;;2.29 €;7;;6x200g;;;Bode Bio Box
+;40257;Basmatireis Vollkorn ;Neuheit, kompostierbarer Beutel;kbA;PK/IN;;2.39 €;7;;6x500g;;;Bode Bio Box
+;40258;Basmatireis weiß ;Neuheit, kompostierbarer Beutel;kbA;PK/IN;;2.49 €;7;;6x500g;;;Bode Bio Box
+;40250;Berglinsen grün (Typ du Puy) ;Neuheit, kompostierbarer Beutel;kbA;CA;;2.69 €;7;;6x500g;;;Bode Bio Box
+;41688;Cashewkerne;Neuheit, kompostierbarer Beutel;kbA;CI/VN;;3.09 €;7;;6x200g;;;Bode Bio Box
+;41689;Cashew-Stücke ;Neuheit, kompostierbarer Beutel;kbA;CI/VN;;2.89 €;7;;6x200g;;;Bode Bio Box
+;40262;Chiasaat schwarz ;Neuheit, kompostierbarer Beutel;kbA;PY;;5.19 €;7;;6x500g;;;Bode Bio Box
+;41675;Coffee Kick ;Neuheit, kompostierbarer Beutel;kbA;DE;;2.99 €;7;;6x200g;;;Bode Bio Box
+;40282;Couch Crunch sweet & Salty ;Neuheit, kompostierbarer Beutel;kbA;DE;;2.29 €;7;;6x175g;;;Bode Bio Box
+;40253;Couscous Vollkorn ;Neuheit, kompostierbarer Beutel;kbA;IT;;2.39 €;7;;6x500g;;;Bode Bio Box
+;41683;Cranberries gesüßt mit Apfeldicksaft ;Neuheit, kompostierbarer Beutel;kbA;CA;;2.49 €;7;;6x125g;;;Bode Bio Box
+;40239;Crunchy Dinkel ;Neuheit, kompostierbarer Beutel;kbA;DE;;3.69 €;7;;6x500g;;;Bode Bio Box
+;40238;Crunchy Erdbeer (Hafer) ;Neuheit, kompostierbarer Beutel;kbA;DE;;4.19 €;7;;6x500g;;;Bode Bio Box
+;40240;Crunchy Frucht (Hafer) bio 6x500g;Neuheit, kompostierbarer Beutel;kbA;DE;;3.39 €;7;;6x500g;;;Bode Bio Box
+;40267;Datteln entsteint Deglet Nour ;Neuheit, kompostierbarer Beutel;kbA;TN;;1.89 €;7;;6x250g;;;Bode Bio Box
+;40268;Datteln Medjool ;Neuheit, kompostierbarer Beutel;kbA;IL/PS;;3.49 €;7;;6x250g;;;Bode Bio Box
+;40232;Dinkelflocken ;Neuheit, kompostierbarer Beutel;kbA;DE;;2.39 €;7;;6x500g;;;Bode Bio Box
+;40243;Feigen ;Neuheit, kompostierbarer Beutel;kbA;TR;;5.09 €;7;;6x500g;;;Bode Bio Box
+;41659;Gojibeeren getrocknet;Neuheit, kompostierbarer Beutel;kbA;CN;;2.39 €;7;;6x100g;;;Bode Bio Box
+;40233;Haferflocken fein ;Neuheit, kompostierbarer Beutel;kbA;SE;;1.99 €;7;;6x500g;;;Bode Bio Box
+;40365;Haferflocken grob ;Neuheit, kompostierbarer Beutel;kbA;SE;;1.99 €;7;;6x500g;;;Bode Bio Box
+;40276;Hanfsamen geschält;Neuheit, kompostierbarer Beutel;kbA;CN ;;2.79 €;7;;6x200g;;;Bode Bio Box
+;41670;Haselnusskerne;Neuheit, kompostierbarer Beutel;kbA;TR/IT/AZ;;2.74 €;7;;6x200g;;;Bode Bio Box
+;40252;Hirse ;Neuheit, kompostierbarer Beutel;kbA;UA/PL;;2.34 €;7;;6x500g;;;Bode Bio Box
+;40244;Hülsenfrüchte Mix ;Neuheit, kompostierbarer Beutel;kbA;DE;;2.59 €;7;;6x500g;;;Bode Bio Box
+;40255;Jasminreis weiß ;Neuheit, kompostierbarer Beutel;kbA;TH;;2.59 €;7;;6x500g;;;Bode Bio Box
+;40281;Kakao Nibs ungeröstet;Neuheit, kompostierbarer Beutel;kbA;PER;;3.29 €;7;;6x250g;;;Bode Bio Box
+;40248;Kichererbsen ;Neuheit, kompostierbarer Beutel;kbA;TR;;2.59 €;7;;6x500g;;;Bode Bio Box
+;41685;Knack- und Fruchtmischung ;Neuheit, kompostierbarer Beutel;kbA;DE;;2.49 €;7;;6x175g;;;Bode Bio Box
+;40269;Kokoschips geröstet ungesüßt ;Neuheit, kompostierbarer Beutel;kbA;LK;;2.19 €;7;;6x250g;;;Bode Bio Box
+;40366;Kokosraspel medium ;Neuheit, kompostierbarer Beutel;kbA;LK;;2.49 €;7;;6x200g;;;Bode Bio Box
+;41687;Kürbiskerne dunkelgrün Europa;Neuheit, kompostierbarer Beutel;kbA;AU/UA/CZ;;3.09 €;7;;6x200g;;;Bode Bio Box
+;40261;Leinsaat braun ;Neuheit, kompostierbarer Beutel;kbA;IN;;2.84 €;7;;6x500g;;;Bode Bio Box
+;40247;Linsen braun (Teller, Laird) ;Neuheit, kompostierbarer Beutel;kbA;TR/IT;;3.09 €;7;;6x500g;;;Bode Bio Box
+;40246;Linsen rot ;Neuheit, kompostierbarer Beutel;kbA;TR;;3.49 €;7;;6x500g;;;Bode Bio Box
+;40245;Linsen schwarz (Beluga) ;Neuheit, kompostierbarer Beutel;kbA;CA;;2.74 €;7;;6x500g;;;Bode Bio Box
+;41686;Luxusleben - Macadamia Nuss-Frucht-Mix;ohne Rosinen, Neuheit, kompostierbarer Beutel;kbA;DE;;2.89 €;7;;6x175g;;;Bode Bio Box
+;40230;Macadamia-Nusskerne roh Premium ;Neuheit, kompostierbarer Beutel;kbA;AU/KE;;2.89 €;7;;6x100g;;;Bode Bio Box
+;41671;Mandeln blanchiert ;Neuheit, kompostierbarer Beutel;kbA;ES/IT;;3.79 €;7;;6x200g;;;Bode Bio Box
+;41672;Mandeln braun;Neuheit, kompostierbarer Beutel;kbA;ES/IT;;3.69 €;7;;6x200g;;;Bode Bio Box
+;40278;Mangostreifen ;Neuheit, kompostierbarer Beutel;kbA;BF;;3.79 €;7;;6x200g;;;Bode Bio Box
+;40277;Maulbeeren hell ;Neuheit, kompostierbarer Beutel;kbA;IR/TR;;2.19 €;7;;6x200g;;;Bode Bio Box
+;40251;Mungbohnen;Neuheit, kompostierbarer Beutel;kbA;CN;;2.99 €;7;;6x500g;;;Bode Bio Box
+;40237;Müsli Basis ;Neuheit, kompostierbarer Beutel;kbA;DE;;2.19 €;7;;6x500g;;;Bode Bio Box
+;40235;Müsli Früchte ;Neuheit, kompostierbarer Beutel;kbA;DE;;2.49 €;7;;6x500g;;;Bode Bio Box
+;40236;Müsli Low Carb Protein plus ;Neuheit, kompostierbarer Beutel;kbA;DE;;3.39 €;7;;6x500g;;;Bode Bio Box
+;40234;Müsli Nuss ;Neuheit, kompostierbarer Beutel;kbA;DE;;2.89 €;7;;6x500g;;;Bode Bio Box
+;40280;Müsli Schoko ;Neuheit, kompostierbarer Beutel;kbA;DE;;3.09 €;7;;6x500g;;;Bode Bio Box
+;41674;Nuss-Frucht Mix Superfood mit Paranüssen;Neuheit, kompostierbarer Beutel;kbA;DE;;2.89 €;7;;6x200g;;;Bode Bio Box
+;40272;Nusskernmischung mit Pekannusskernen;Neuheit, kompostierbarer Beutel;kbA;DE;;3.79 €;7;;6x250g;;;Bode Bio Box
+;41673;Paranusskerne;Neuheit, kompostierbarer Beutel;kbA;BO/PE;;4.34 €;7;;6x200g;;;Bode Bio Box
+;40231;Pekannusskerne ;Neuheit, kompostierbarer Beutel;kbA;ZA;;2.64 €;7;;6x100g;;;Bode Bio Box
+;41658;Pinienkerne ;Neuheit, kompostierbarer Beutel;kbA;RU/CN;;4.49 €;7;;6x100g;;;Bode Bio Box
+;40273;Pistazien geröstet gesalzen in Schale;Neuheit, kompostierbarer Beutel;kbA;TR/IT/ES;;5.19 €;7;;6x250g;;;Bode Bio Box
+;40212;Porridge Apfel & Zimt mit Quinoa ;Neuheit, kompostierbarer Beutel;kbA;DE;;2.59 €;7;;6x400g;;;Bode Bio Box
+;41660;Quinoa gepufft ;Neuheit, kompostierbarer Beutel;kbA;DE;;1.69 €;7;;6x100g;;;Bode Bio Box
+;40264;Quinoa Porridge Beeren & Erdmandeln ;Neuheit, kompostierbarer Beutel;kbA;DE;;2.69 €;7;;6x400g;;;Bode Bio Box
+;40263;Quinoa Porridge Chia & Vanille;Neuheit, kompostierbarer Beutel;kbA;DE;;3.29 €;7;;6x400g;;;Bode Bio Box
+;40275;Quinoa Tricolore;Neuheit, kompostierbarer Beutel;kbA;DE;;1.89 €;7;;6x250g;;;Bode Bio Box
+;40254;Quinoa weiß ;Neuheit, kompostierbarer Beutel;kbA;PE/BO;;3.29 €;7;;6x500g;;;Bode Bio Box
+;40265;Quinoaflocken ;Neuheit, kompostierbarer Beutel;kbA;DE;;2.29 €;7;;6x250g;;;Bode Bio Box
+;40256;Risottoreis weiß ;Neuheit, kompostierbarer Beutel;kbA;IT;;2.79 €;7;;6x500g;;;Bode Bio Box
+;41684;Salat Topping ;Neuheit, kompostierbarer Beutel;kbA;DE;;1.79 €;7;;6x175g;;;Bode Bio Box
+;40260;Sesamsaat ungeschält ;Neuheit, kompostierbarer Beutel;kbA;IN/UG;;2.94 €;7;;6x500g;;;Bode Bio Box
+;40259;Sonnenblumenkerne Europa;Neuheit, kompostierbarer Beutel;kbA;IT;;3.14 €;7;;6x500g;;;Bode Bio Box
+;40270;Studentenfutter mit Cranberries mit Pekannusskernen;Neuheit, kompostierbarer Beutel;kbA;DE;;2.99 €;7;;6x250g;;;Bode Bio Box
+;40271;Studentenfutter mit Pekannusskernen;Neuheit, kompostierbarer Beutel;kbA;DE;;2.89 €;7;;6x250g;;;Bode Bio Box
+;40242;Sultaninen ;Neuheit, kompostierbarer Beutel;kbA;UZ/TR;;2.89 €;7;;6x500g;;;Bode Bio Box
+;40279;Vier-Flocken-Mischung ;Neuheit, kompostierbarer Beutel;kbA;DE;;2.09 €;7;;6x500g;;;Bode Bio Box
+;41682;Walnusskerne hell ;Neuheit, kompostierbarer Beutel;kbA;MD/UA;;2.19 €;7;;6x125g;;;Bode Bio Box
+;40274;Walnussstücke hell ;Neuheit, kompostierbarer Beutel;kbA;MD/UA;;3.19 €;7;;6x250g;;;Bode Bio Box
+;40283;Zaubernuss Macadamia-Nuss-Mix ;Neuheit, kompostierbarer Beutel;kbA;DE;;3.59 €;7;;6x175g;;;Bode Bio Box
+;25004;Berberitzen Rohkost ;Bode Exklusiv;kbA;IR;;17.91 €;7;;5kg;;;Trockenfrüchte
+;22501;Datteln Medjool ;Bode Exklusiv;kbA;IL;;11.43 €;7;;5kg;;;Trockenfrüchte
+;22667;"Feigen ""spanische Goldfeige"" Premium";Bode Exklusiv;kbA;ES;;7.62 €;7;;10kg;;;Trockenfrüchte
+;22180;Kokosnuss Streifen (smile) Rohkost;Bode Exklusiv;kbA;LK;;8.15 €;7;;10kg;;;Trockenfrüchte
+;22643;Minifeigen Iran aus dem Zagrosgebirge ;Bode Exklusiv;kbA;IR;;13.65 €;7;;5kg;;;Trockenfrüchte
+;22673;Physalis ganz getrocknet;Bode Exklusiv;kbA;PE;;16.85 €;7;;20kg;;;Trockenfrüchte
+;22463;Cashewkerne 240er Premium                      ;Bode Exklusiv;kbA;VN;;13.39 €;7;;22,68kg;;;Nusskerne
+;23497;Erdmandeln ganz braun 6-10mm;Bode Exklusiv;kbA;GQ;;8.37 €;7;;25kg;;;Nusskerne
+;23499;Erdmandeln geschält large 12-15mm;Bode Exklusiv;kbA;GQ;;10.12 €;7;;25kg;;;Nusskerne
+;22448;Mandeln braun Jumbo süß Premium;Bode Exklusiv;kbA;ES/IT;;15.57 €;7;;25kg;;;Nusskerne
+;22417;Pinienkerne;Bode Exklusiv;kbA;CN;;38.14 €;7;;25kg;;;Nusskerne
+;22455;Pistazienkerne grün;Bode Exklusiv;kbA;TR/IR;;59.36 €;7;;10kg;;;Nusskerne
+;21628;Chiasaat schwarz;Bode Exklusiv;kbA;AR;;8.36 €;7;;25kg;;;Saaten
+;20448;KAMUT® Khorasan Weizen;Bode Exklusiv;kbA;CA;;3.87 €;7;;25kg;;;Saaten
+;21384;Quinoa Tricolore;Bode Exklusiv;kbA;DE;;5.14 €;7;;12,5kg;;;Saaten
+;22510;Aprikosen Demeter, Nr. 3-4;Demeter, Bode Exklusiv;kbdA*;TR;;9.16 €;7;;12,5kg;;;Bode Bio Box
+;20412;Dinkel Demeter;Demeter, Bode Exklusiv;kbdA*;DE;;3.48 €;7;;25kg;;;Bode Bio Box
+;22562;Feigen Protoben Nr. 6 Demeter;Demeter, Bode Exklusiv;kbdA*;TR;;11.28 €;7;;12,5kg;;;Bode Bio Box
+;23429;Gerstenmalzextrakt Demeter;Demeter, Bode Exklusiv;kbdA*;DE;;6.86 €;7;;10kg;;;Bode Bio Box
+;20409;Grünkern Demeter ;Demeter, Bode Exklusiv;kbdA*;DE;;4.86 €;7;;25kg;;;Bode Bio Box
+;20607;Hirse geschält Demeter;Demeter, Bode Exklusiv;kbdA*;AT/CZ;;5.18 €;7;;25kg;;;Bode Bio Box
+;20411;Nackthafer Demeter ;Demeter, Bode Exklusiv;kbdA*;DE;;2.83 €;7;;25kg;;;Bode Bio Box
+;21001;Oliven dunkel entsteint in Lake Demeter;Demeter, Bode Exklusiv;kbdA*;GR;;10.88 €;7;;11kg;;;Bode Bio Box
+;21357;Olivenöl nativ extra Demeter Griechenland Metallkanister;Demeter, Bode Exklusiv;kbdA*;GR;;13.81 €;7;;5L;;;Bode Bio Box
+;21394;Olivenöl nativ extra Demeter Spanien Metallkanister;Demeter, Bode Exklusiv;kbdA*;ES;;13.81 €;7;;3L;;;Bode Bio Box
+;20429;Roggen Demeter;Demeter, Bode Exklusiv;kbdA*;DE;;1.44 €;7;;25kg;;;Bode Bio Box
+;20599;Roggenröstmalz 500-800 gemahlen Demeter;Demeter, Bode Exklusiv;kbdA*;DE;;4.02 €;7;;25kg;;;Bode Bio Box
+;23342;Rohrohrzucker hell Demeter;Demeter, Bode Exklusiv;kbdA*;PY;;2.96 €;7;;25kg;;;Bode Bio Box
+;25017;Rübenzucker Demeter;Demeter, Bode Exklusiv;kbdA*;CH/DE;;3.38 €;7;;25kg;;;Bode Bio Box
+;21726;Sesamsaat ungeschält Demeter Ägypten;Demeter, Bode Exklusiv;kbdA*;EG;;5.88 €;7;;25kg;;;Bode Bio Box
+;21616;Sonnenblumenkerne Demeter;Demeter, Bode Exklusiv;kbdA*;HU;;4.86 €;7;;25kg;;;Bode Bio Box
+;22540;Sultaninen Demeter Türkei ;Demeter, Bode Exklusiv;kbdA*;TR;;5.24 €;7;;12,5kg;;;Bode Bio Box
+;20433;Weizen Demeter;Demeter, Bode Exklusiv;kbdA*;DE;;1.73 €;7;;25kg;;;Bode Bio Box
+;23495;Weizenmehl Type 405 Demeter;Demeter, Bode Exklusiv;kbdA*;DE;;1.46 €;7;;25kg;;;Bode Bio Box
+;22412;Haselnusskerne Demeter;Demeter, Bode Exklusiv;kbdA*;TR;;13.52 €;7;;25kg;;;Bode Bio Box
+;20835;Pane Picco Sesam-Schwarzkümmel aus Dinkel Demeter  ;Demeter, Bode Exklusiv;kbdA*;DE;;13.46 €;7;;4kg;;;Bode Bio Box
+;20932;Schoko-Haselnuss-Cookies Demeter lose ;Demeter, Bode Exklusiv;kbdA*;DE;;13.76 €;7;;5,5kg;;;Bode Bio Box
+;20917;Callets ca. 10 mm weiße Schokolade Fairtrade ;Fairtrade, Bode Exklusiv;kbA;BE;;15.46 €;7;;16kg;;;Bode Bio Box
+;20775;Callets ca. 10 mm weiße Schokolade Fairtrade ;Fairtrade, Bode Exklusiv;kbA;BE;;13.51 €;7;;16kg;;;Bode Bio Box
+;22046;Rohrohrzucker Fairtrade ;Fairtrade, Bode Exklusiv;kbA;PY;;2.33 €;7;;25kg;;;Bode Bio Box
+;91342;Kokosmilch Fairtrade 12x400ml ;Fairtrade, Bode Exklusiv;kbA;LK;;1.55 €;7;;12/400ml;;;Bode Bio Box
+;20837;Himbeeren in Zartbitterschokolade Fairtrade ;Fairtrade, Bode Exklusiv;kbA;AT;;22.73 €;7;;10kg;;;Bode Bio Box
+;40223;Himbeeren in Zartbitterschokolade Fairtrade ;Fairtrade, Bode Exklusiv;kbA;AT;;23.52 €;7;;5kg;;;Bode Bio Box
+;20851;Erdbeeren in Zartbitterschokolade Fairtrade ;Fairtrade, Bode Exklusiv;kbA;AT;;22.57 €;7;;10kg;;;Bode Bio Box
+;40224;Erdbeeren in Zartbitterschokolade Fairtrade ;Fairtrade, Bode Exklusiv;kbA;AT;;23.36 €;7;;5kg;;;Bode Bio Box
+;20860;Heidelb., Himb. und Erdb.stücke in drei Schokoladen;Fairtrade, Bode Exklusiv;kbA;AT;;22.57 €;7;;10kg;;;Bode Bio Box
+;40225;Heidelb., Himb. und Erdb.stücke in drei Schokoladen;Fairtrade, Bode Exklusiv;kbA;AT;;23.36 €;7;;5kg;;;Bode Bio Box
+;20852;Haselnüsse geröstet in Vollmilchschokolade Fairtrade ;Fairtrade, Bode Exklusiv;kbA;AT;;16.21 €;7;;10kg;;;Bode Bio Box
+;40227;Haselnüsse geröstet in Vollmilchschokolade Fairtrade;Fairtrade, Bode Exklusiv;kbA;AT;;17.00 €;7;;5kg;;;Bode Bio Box
+;20861;Mandeln geröstet in Reis-Zimt-Veganolade Fairtrade;Fairtrade, Bode Exklusiv;kbA;AT;;23.57 €;7;;10kg;;;Bode Bio Box
+;40228;Mandeln geröstet in Reis-Zimt-Veganolade Fairtrade;Fairtrade, Bode Exklusiv;kbA;AT;;24.31 €;7;;5kg;;;Bode Bio Box
+;20840;"Haselnüsse geröstet in Vollmilch-Lebkuchenschokolade
+Fairtrade ";Fairtrade, Bode Exklusiv;kbA;AT;;15.74 €;7;;10kg;;;Bode Bio Box
+;40229;"Haselnüsse geröstet in Vollmilch-Lebkuchenschokolade
+Fairtrade ";Fairtrade, Bode Exklusiv;kbA;AT;;16.69 €;7;;5kg;;;Bode Bio Box
+;40284;Amaranth gepufft ;Plastikfrei verpackt, Bode Exklusiv;kbA;IN;;1.49 €;7;;6x150g;;;Bode Bio Box
+;41676;Aprikosen ;Plastikfrei verpackt, Bode Exklusiv;kbA;TR/UZ;;2.29 €;7;;6x200g;;;Bode Bio Box
+;40257;Basmatireis Vollkorn ;Plastikfrei verpackt, Bode Exklusiv;kbA;PK/IN;;2.39 €;7;;6x500g;;;Bode Bio Box
+;40258;Basmatireis weiß ;Plastikfrei verpackt, Bode Exklusiv;kbA;PK/IN;;2.49 €;7;;6x500g;;;Bode Bio Box
+;40250;Berglinsen grün (Typ du Puy) ;Plastikfrei verpackt, Bode Exklusiv;kbA;CA;;2.69 €;7;;6x500g;;;Bode Bio Box
+;41688;Cashewkerne;Plastikfrei verpackt, Bode Exklusiv;kbA;CI/VN;;3.09 €;7;;6x200g;;;Bode Bio Box
+;41689;Cashew-Stücke ;Plastikfrei verpackt, Bode Exklusiv;kbA;CI/VN;;2.89 €;7;;6x200g;;;Bode Bio Box
+;40262;Chiasaat schwarz ;Plastikfrei verpackt, Bode Exklusiv;kbA;PY;;5.19 €;7;;6x500g;;;Bode Bio Box
+;41675;Coffee Kick ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.99 €;7;;6x200g;;;Bode Bio Box
+;40282;Couch Crunch sweet'n'salty ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.29 €;7;;6x175g;;;Bode Bio Box
+;40253;Couscous Vollkorn ;Plastikfrei verpackt, Bode Exklusiv;kbA;IT;;2.39 €;7;;6x500g;;;Bode Bio Box
+;41683;Cranberries gesüßt mit Apfeldicksaft ;Plastikfrei verpackt, Bode Exklusiv;kbA;CA;;2.49 €;7;;6x125g;;;Bode Bio Box
+;40239;Crunchy Dinkel ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;3.69 €;7;;6x500g;;;Bode Bio Box
+;40238;Crunchy Erdbeer (Hafer) ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;4.19 €;7;;6x500g;;;Bode Bio Box
+;40240;Crunchy Frucht (Hafer);Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;3.39 €;7;;6x500g;;;Bode Bio Box
+;40267;Datteln entsteint Deglet Nour ;Plastikfrei verpackt, Bode Exklusiv;kbA;TN;;1.89 €;7;;6x250g;;;Bode Bio Box
+;40268;Datteln Medjool ;Plastikfrei verpackt, Bode Exklusiv;kbA;IL/PS;;3.49 €;7;;6x250g;;;Bode Bio Box
+;40232;Dinkelflocken ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.39 €;7;;6x500g;;;Bode Bio Box
+;40243;Feigen ;Plastikfrei verpackt, Bode Exklusiv;kbA;TR;;5.09 €;7;;6x500g;;;Bode Bio Box
+;41659;Gojibeeren getrocknet;Plastikfrei verpackt, Bode Exklusiv;kbA;CN;;2.39 €;7;;6x100g;;;Bode Bio Box
+;40233;Haferflocken fein ;Plastikfrei verpackt, Bode Exklusiv;kbA;SE;;1.99 €;7;;6x500g;;;Bode Bio Box
+;40365;Haferflocken grob ;Plastikfrei verpackt, Bode Exklusiv;kbA;SE;;1.99 €;7;;6x500g;;;Bode Bio Box
+;40276;Hanfsamen geschält;Plastikfrei verpackt, Bode Exklusiv;kbA;CN ;;2.79 €;7;;6x200g;;;Bode Bio Box
+;41670;Haselnusskerne;Plastikfrei verpackt, Bode Exklusiv;kbA;TR/IT/AZ;;2.74 €;7;;6x200g;;;Bode Bio Box
+;40252;Hirse ;Plastikfrei verpackt, Bode Exklusiv;kbA;UA/PL;;2.34 €;7;;6x500g;;;Bode Bio Box
+;40244;Hülsenfrüchte Mix ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.59 €;7;;6x500g;;;Bode Bio Box
+;40255;Jasminreis weiß ;Plastikfrei verpackt, Bode Exklusiv;kbA;TH;;2.59 €;7;;6x500g;;;Bode Bio Box
+;40281;Kakao Nibs ungeröstet;Plastikfrei verpackt, Bode Exklusiv;kbA;;;3.29 €;7;;6x250g;;;Bode Bio Box
+;40248;Kichererbsen ;Plastikfrei verpackt, Bode Exklusiv;kbA;TR;;2.59 €;7;;6x500g;;;Bode Bio Box
+;41685;Knack- und Fruchtmischung ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.49 €;7;;6x175g;;;Bode Bio Box
+;40269;Kokoschips geröstet ungesüßt ;Plastikfrei verpackt, Bode Exklusiv;kbA;LK;;2.19 €;7;;6x250g;;;Bode Bio Box
+;40366;Kokosraspel medium ;Plastikfrei verpackt, Bode Exklusiv;kbA;LK;;2.49 €;7;;6x200g;;;Bode Bio Box
+;41687;Kürbiskerne dunkelgrün Europa;Plastikfrei verpackt, Bode Exklusiv;kbA;AU/UA/CZ;;3.09 €;7;;6x200g;;;Bode Bio Box
+;40261;Leinsaat braun ;Plastikfrei verpackt, Bode Exklusiv;kbA;IN;;2.84 €;7;;6x500g;;;Bode Bio Box
+;40247;Linsen braun (Teller, Laird) ;Plastikfrei verpackt, Bode Exklusiv;kbA;TR/IT;;3.09 €;7;;6x500g;;;Bode Bio Box
+;40246;Linsen rot ;Plastikfrei verpackt, Bode Exklusiv;kbA;TR;;3.49 €;7;;6x500g;;;Bode Bio Box
+;40245;Linsen schwarz (Beluga) ;Plastikfrei verpackt, Bode Exklusiv;kbA;CA;;2.74 €;7;;6x500g;;;Bode Bio Box
+;41686;Luxusleben - Macadamia Nuss-Frucht-Mix;ohne Rosinen, Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.89 €;7;;6x175g;;;Bode Bio Box
+;40230;Macadamia-Nusskerne roh Premium ;Plastikfrei verpackt, Bode Exklusiv;kbA;AU/KE;;2.89 €;7;;6x100g;;;Bode Bio Box
+;41671;Mandeln blanchiert ;Plastikfrei verpackt, Bode Exklusiv;kbA;ES/IT;;3.79 €;7;;6x200g;;;Bode Bio Box
+;41672;Mandeln braun;Plastikfrei verpackt, Bode Exklusiv;kbA;ES/IT;;3.69 €;7;;6x200g;;;Bode Bio Box
+;40278;Mangostreifen ;Plastikfrei verpackt, Bode Exklusiv;kbA;BF;;3.79 €;7;;6x200g;;;Bode Bio Box
+;40277;Maulbeeren hell ;Plastikfrei verpackt, Bode Exklusiv;kbA;IR/TR;;2.19 €;7;;6x200g;;;Bode Bio Box
+;40251;Mungbohnen;Plastikfrei verpackt, Bode Exklusiv;kbA;CN;;2.99 €;7;;6x500g;;;Bode Bio Box
+;40237;Müsli Basis ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.19 €;7;;6x500g;;;Bode Bio Box
+;40235;Müsli Früchte ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.49 €;7;;6x500g;;;Bode Bio Box
+;40236;Müsli Low Carb Protein plus ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;3.39 €;7;;6x500g;;;Bode Bio Box
+;40234;Müsli Nuss ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.89 €;7;;6x500g;;;Bode Bio Box
+;40280;Müsli Schoko ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;3.09 €;7;;6x500g;;;Bode Bio Box
+;41674;Nuss-Frucht Mix Superfood mit Paranüssen;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.89 €;7;;6x200g;;;Bode Bio Box
+;40272;Nusskernmischung mit Pekannusskernen;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;3.79 €;7;;6x250g;;;Bode Bio Box
+;41673;Paranusskerne;Plastikfrei verpackt, Bode Exklusiv;kbA;BO/PE;;4.34 €;7;;6x200g;;;Bode Bio Box
+;40231;Pekannusskerne ;Plastikfrei verpackt, Bode Exklusiv;kbA;ZA;;2.64 €;7;;6x100g;;;Bode Bio Box
+;41658;Pinienkerne ;Plastikfrei verpackt, Bode Exklusiv;kbA;RU/CN;;4.49 €;7;;6x100g;;;Bode Bio Box
+;40273;Pistazien geröstet gesalzen in Schale;Plastikfrei verpackt, Bode Exklusiv;kbA;TR/IT/ES;;5.19 €;7;;6x250g;;;Bode Bio Box
+;40212;Porridge Apfel & Zimt mit Quinoa ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.59 €;7;;6x400g;;;Bode Bio Box
+;41660;Quinoa gepufft ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;1.69 €;7;;6x100g;;;Bode Bio Box
+;40264;Quinoa Porridge Beeren & Erdmandeln ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.69 €;7;;6x400g;;;Bode Bio Box
+;40263;Quinoa Porridge Chia & Vanille;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;3.29 €;7;;6x400g;;;Bode Bio Box
+;40275;Quinoa Tricolore;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;1.89 €;7;;6x250g;;;Bode Bio Box
+;40254;Quinoa weiß ;Plastikfrei verpackt, Bode Exklusiv;kbA;PE/BO;;3.29 €;7;;6x500g;;;Bode Bio Box
+;40265;Quinoaflocken ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.29 €;7;;6x250g;;;Bode Bio Box
+;40256;Risottoreis weiß ;Plastikfrei verpackt, Bode Exklusiv;kbA;IT;;2.79 €;7;;6x500g;;;Bode Bio Box
+;41684;Salat Topping ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;1.79 €;7;;6x175g;;;Bode Bio Box
+;40260;Sesamsaat ungeschält ;Plastikfrei verpackt, Bode Exklusiv;kbA;IN/UG;;2.94 €;7;;6x500g;;;Bode Bio Box
+;40259;Sonnenblumenkerne Europa;Plastikfrei verpackt, Bode Exklusiv;kbA;IT;;3.14 €;7;;6x500g;;;Bode Bio Box
+;40270;Studentenfutter mit Cranberries mit Pekannusskernen;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.99 €;7;;6x250g;;;Bode Bio Box
+;40271;Studentenfutter mit Pekannusskernen;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.89 €;7;;6x250g;;;Bode Bio Box
+;40242;Sultaninen ;Plastikfrei verpackt, Bode Exklusiv;kbA;UZ/TR;;2.89 €;7;;6x500g;;;Bode Bio Box
+;40279;Vier-Flocken-Mischung ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;2.09 €;7;;6x500g;;;Bode Bio Box
+;41682;Walnusskerne hell ;Plastikfrei verpackt, Bode Exklusiv;kbA;MD/UA;;2.19 €;7;;6x125g;;;Bode Bio Box
+;40274;Walnussstücke hell ;Plastikfrei verpackt, Bode Exklusiv;kbA;MD/UA;;3.19 €;7;;6x250g;;;Bode Bio Box
+;40283;Zaubernuss Macadamia-Nuss-Mix ;Plastikfrei verpackt, Bode Exklusiv;kbA;DE;;3.59 €;7;;6x175g;;;Bode Bio Box
